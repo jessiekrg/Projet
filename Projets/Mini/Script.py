@@ -56,10 +56,4 @@ def Similarite_Requete_Document():
     for document in loaded_data:
         document["embedding"] = np.array(document["embedding"]) # Reconversion en array 
         if cosine_similarity(document["embedding"] , vecteur_requete) >= 0.8:
-            print("Les élements sont similaires")
-        elif 0 <= cosine_similarity(document["embedding"] , vecteur_requete) < 0.8:
-            print("Les élements ne sont pas similaires")
-        elif cosine_similarity(document["embedding"] , vecteur_requete) == -1: # Revoir les intervalles
-            print("Les élements ne sont opposés")
-    
-
+            return document["texte"] # return les documents similaires à la requête 
