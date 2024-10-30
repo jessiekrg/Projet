@@ -22,21 +22,17 @@ def Charger_Documents(Fichier):
             print(Documents_Embeddings)
     return Documents_Embeddings
 
-#Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
+Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
 
 def Sauvegarde_JSON (Fichier):
     """Sauvegarde les embeddings sous format JSON """
     with open ('data.json','w') as json_file:
         json.dump(Charger_Documents(Fichier),json_file,indent= 4) # stocke les embeddings des documents dans un fichier JSON
 
-#Sauvegarde_JSON(Documents_Embeddings)
-
 def Encoder_Requete(requete):
     """Encode la requête saisie par l'utilisateur"""
     embedding_requete = modele.encode(requete) # convertie la requête en un vecteur 
     return embedding_requete
-
-Encoder_Requete("Bonjour")
 
 
 def cosine_similarity(vector1, vector2):
@@ -50,20 +46,20 @@ def cosine_similarity(vector1, vector2):
     cosine = scalar_product / (norm_vector1 * norm_vector2)
     return cosine
 
-def Similarite_Requete_Document(Fichier):
+def Similarite_Requete_Document():
     """Calculez la similarité cosinus entre le vecteur de la requête et les vecteurs des documents pour identifier les documents les plus proches"""
     requete_utilisateur = input("Saisir une requête")
+    vecteur_requete = Encoder_Requete(requete_utilisateur)
     with open ('data.json',"r") as f:
         loaded_data = json.load(f) # convertion du contenu du fichier JSON en objets python
 
     for document in loaded_data:
         document["embedding"] = np.array(document["embedding"]) # Reconversion en array 
-        if cosine_similarity(document["embedding"] , requete_utilisateur) >= 0.8:
+        if cosine_similarity(document["embedding"] , vecteur_requete) >= 0.8:
             print("Les élements sont similaires")
-        if 0 <= cosine_similarity(document["embedding"] , requete_utilisateur) < 0.8:
+        elif 0 <= cosine_similarity(document["embedding"] , vecteur_requete) < 0.8:
             print("Les élements ne sont pas similaires")
-        if cosine_similarity(document["embedding"] , requete_utilisateur) == -1: # Revoir les intervalles
+        elif cosine_similarity(document["embedding"] , vecteur_requete) == -1: # Revoir les intervalles
             print("Les élements ne sont opposés")
-
     
 
