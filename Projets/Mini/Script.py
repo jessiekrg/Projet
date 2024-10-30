@@ -26,7 +26,8 @@ def Charger_Documents(Fichier):
 Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
 
 def Sauvegarde_JSON (data,fichier):
+    """Sauvegarde les embeddings sous format JSON """
     with open (fichier,'w') as json_file:
-        json.dump(data,json_file,indent= 4)
+        json.dump(data,json_file,indent= 4) # sauvegarde des données sous forme JSON
 
 Sauvegarde_JSON(Documents_Embeddings,'data.json')
