@@ -6,13 +6,12 @@ modele = SentenceTransformer('paraphrase-MiniLM-L6-v2') #Chargement d'un modèle
 
 def Charger_Documents(Fichier):
     """Charge les documents/Articles du Fichier et renvoie un dictrionnaire de format {Article (article) : Embeddings (valeur)"""
-    global Documents_Embeddings
     Documents_Embeddings = []
     with open(Fichier, 'r') as Fichier:
         indice = 1
         for Document in Fichier:
             embedding = modele.encode(Document)
-            embedding = embedding.tolist()
+            embedding = embedding.tolist() # array --> list : json ne peut pas stocker des arrays
             Documents_Embeddings.append({
                 "id": indice,
                 "texte": Document,
@@ -23,11 +22,48 @@ def Charger_Documents(Fichier):
             print(Documents_Embeddings)
     return Documents_Embeddings
 
-Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
+#Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
 
-def Sauvegarde_JSON (data,fichier):
+def Sauvegarde_JSON (Fichier):
     """Sauvegarde les embeddings sous format JSON """
-    with open (fichier,'w') as json_file:
-        json.dump(data,json_file,indent= 4) # sauvegarde des données sous forme JSON
+    with open ('data.json','w') as json_file:
+        json.dump(Charger_Documents(Fichier),json_file,indent= 4) # stocke les embeddings des documents dans un fichier JSON
 
-Sauvegarde_JSON(Documents_Embeddings,'data.json')
+#Sauvegarde_JSON(Documents_Embeddings)
+
+def Encoder_Requete(requete):
+    """Encode la requête saisie par l'utilisateur"""
+    embedding_requete = modele.encode(requete) # convertie la requête en un vecteur 
+    return embedding_requete
+
+Encoder_Requete("Bonjour")
+
+
+def cosine_similarity(vector1, vector2):
+    """Calcul de la similarité cosinus""" # source : https://medium.com/@santannalouis208/la-similarité-cosinus-en-ia-nlp-d554d3b14efa
+    #Produit scalaire des vecteurs
+    scalar_product = np.dot(vector1, vector2)
+    #Norme euclidienne des vecteurs
+    norm_vector1 = np.linalg.norm(vector1)
+    norm_vector2 = np.linalg.norm(vector2)
+    #Expression analytique du cosinus dans un espace euclidien
+    cosine = scalar_product / (norm_vector1 * norm_vector2)
+    return cosine
+
+def Similarite_Requete_Document(Fichier):
+    """Calculez la similarité cosinus entre le vecteur de la requête et les vecteurs des documents pour identifier les documents les plus proches"""
+    requete_utilisateur = input("Saisir une requête")
+    with open ('data.json',"r") as f:
+        loaded_data = json.load(f) # convertion du contenu du fichier JSON en objets python
+
+    for document in loaded_data:
+        document["embedding"] = np.array(document["embedding"]) # Reconversion en array 
+        if cosine_similarity(document["embedding"] , requete_utilisateur) >= 0.8:
+            print("Les élements sont similaires")
+        if 0 <= cosine_similarity(document["embedding"] , requete_utilisateur) < 0.8:
+            print("Les élements ne sont pas similaires")
+        if cosine_similarity(document["embedding"] , requete_utilisateur) == -1: # Revoir les intervalles
+            print("Les élements ne sont opposés")
+
+    
+
