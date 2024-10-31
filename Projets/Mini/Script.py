@@ -22,7 +22,9 @@ def Charger_Documents(Fichier):
             print(Documents_Embeddings)
     return Documents_Embeddings
 
-Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
+#Charger_Documents('/Users/lnberroug/Documents/LDDBI-L2/Info/IN304/Projet/Projets/Mini/lois.txt')
+#Charger_Documents('Projets/Mini/lois.txt')
+
 
 def Sauvegarde_JSON (Fichier):
     """Sauvegarde les embeddings sous format JSON """
@@ -57,3 +59,6 @@ def Similarite_Requete_Document():
         document["embedding"] = np.array(document["embedding"]) # Reconversion en array 
         if cosine_similarity(document["embedding"] , vecteur_requete) >= 0.8:
             return document["texte"] # return les documents similaires à la requête 
+
+
+Similarite_Requete_Document()
