@@ -1,4 +1,5 @@
 from textblob import TextBlob
+import json
 
 #PARTIE : CREATION DU TWEET + SOUMISSION DU TWEET DANS LANDING ZONE
 
@@ -26,5 +27,5 @@ class Tweet: #Plan/Modèle
 
 def Nettoyage_Tweet():
     return Tweet_Propre
-        
+  
 #PARTIE : 
