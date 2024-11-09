@@ -1,5 +1,6 @@
 from textblob import TextBlob
 import json
+import re
 
 #PARTIE : CREATION DU TWEET + SOUMISSION DU TWEET DANS LANDING ZONE
 
@@ -14,10 +15,12 @@ class Tweet: #Plan/Modèle
     
     def Extraction_Sentiments(): #A Faire (utilisation textblob)
         """"""
+
         return sentiments
     
     def Extraction_Hashtags():  #A Faire 
         """"""
+        hashtags = re.findall(r'#\w+', tweet)
         return hashtags
     
     def Extraction_Mentions():  #A Faire
