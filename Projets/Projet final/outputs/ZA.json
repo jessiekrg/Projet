@@ -17,7 +17,11 @@
             "@btyler",
             "@mariamiller"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1001",
@@ -37,7 +41,11 @@
             "@gregwoods",
             "@mooregeorge"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1002",
@@ -59,7 +67,11 @@
             "@amymorris",
             "@longamanda"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "boxoffice",
+            "rachel"
+        ]
     },
     {
         "id": "1003",
@@ -79,7 +91,11 @@
             "@oliviarichard",
             "@rrice"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1004",
@@ -96,7 +112,11 @@
             "@jasondavis",
             "@amymorris"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "vacation",
+            "trip"
+        ]
     },
     {
         "id": "1005",
@@ -114,7 +134,11 @@
             "@jacobhoover",
             "@perezsteven"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1006",
@@ -134,7 +158,11 @@
             "@courtney67",
             "@darrelledwards"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1007",
@@ -154,7 +182,11 @@
             "@watsonbianca",
             "@rachel02"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1008",
@@ -175,7 +207,11 @@
             "@carlastevenson",
             "@lisa45"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1009",
@@ -192,7 +228,11 @@
             "@kelli06",
             "@staffordhenry"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1010",
@@ -211,7 +251,11 @@
             "@staffordhenry",
             "@staffordhenry"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1011",
@@ -233,7 +277,11 @@
             "@gregwoods",
             "@mmurphy"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1012",
@@ -253,7 +301,11 @@
             "@sarahmartinez",
             "@longamanda"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1013",
@@ -271,7 +323,11 @@
             "@vvalenzuela",
             "@darrelledwards"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1014",
@@ -288,7 +344,11 @@
             "@matthewbraun",
             "@tpeterson"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1015",
@@ -308,7 +368,11 @@
             "@terrencewolf",
             "@kevinramirez"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1016",
@@ -324,7 +388,11 @@
             "@mmurphy",
             "@kathleen40"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1017",
@@ -344,7 +412,11 @@
             "@carlastevenson",
             "@btyler"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1018",
@@ -363,7 +435,11 @@
             "@vvalenzuela",
             "@matthewbraun"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1019",
@@ -385,7 +461,11 @@
             "@rachel02",
             "@oliviarichard"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1020",
@@ -403,7 +483,11 @@
             "@staffordhenry",
             "@lisa45"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1021",
@@ -421,7 +505,11 @@
             "@douglasgonzalez",
             "@reynoldsbenjamin"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "awareness",
+            "mental"
+        ]
     },
     {
         "id": "1022",
@@ -442,7 +530,11 @@
             "@tpeterson",
             "@scraig"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1023",
@@ -462,7 +554,11 @@
             "@terrencewolf",
             "@longamanda"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1024",
@@ -483,7 +579,11 @@
             "@matthewbraun",
             "@amymorris"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "passport",
+            "cruise"
+        ]
     },
     {
         "id": "1025",
@@ -503,7 +603,11 @@
             "@rclark",
             "@darrelledwards"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1026",
@@ -519,7 +623,11 @@
             "@brittany53",
             "@ugay"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1027",
@@ -536,7 +644,11 @@
             "@jwood",
             "@williamsbianca"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1028",
@@ -552,7 +664,11 @@
             "@amoore",
             "@sarahmartinez"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1029",
@@ -573,7 +689,11 @@
             "@jonathanking",
             "@vvalenzuela"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "fasting",
+            "williamsbianca"
+        ]
     },
     {
         "id": "1030",
@@ -592,7 +712,11 @@
             "@perezsteven",
             "@guzmanamber"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1031",
@@ -609,7 +733,11 @@
             "@terrencewolf",
             "@staffordhenry"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1032",
@@ -629,7 +757,11 @@
             "@mooregeorge",
             "@matthewbraun"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1033",
@@ -650,7 +782,11 @@
             "@kathleen40",
             "@douglasgonzalez"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1034",
@@ -670,7 +806,11 @@
             "@amoore",
             "@mooregeorge"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "mariamiller",
+            "economy"
+        ]
     },
     {
         "id": "1035",
@@ -688,7 +828,11 @@
             "@staffordhenry",
             "@rachel02"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1036",
@@ -706,7 +850,11 @@
             "@carlastevenson",
             "@jonathanking"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "global",
+            "recycle"
+        ]
     },
     {
         "id": "1037",
@@ -723,7 +871,11 @@
             "@sarah06",
             "@amymorris"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1038",
@@ -743,7 +895,11 @@
             "@hdunn",
             "@rclark"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "vacation",
+            "trip"
+        ]
     },
     {
         "id": "1039",
@@ -761,7 +917,11 @@
             "@guzmanamber",
             "@reynoldsbenjamin"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1040",
@@ -779,7 +939,11 @@
             "@oliviarichard",
             "@jwood"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "football",
+            "olympics"
+        ]
     },
     {
         "id": "1041",
@@ -799,7 +963,11 @@
             "@courtney67",
             "@mariamiller"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1042",
@@ -818,7 +986,11 @@
             "@cruzzachary",
             "@kelli06"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1043",
@@ -839,7 +1011,11 @@
             "@longamanda",
             "@tpeterson"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1044",
@@ -857,7 +1033,11 @@
             "@darlene03",
             "@tpeterson"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1045",
@@ -873,7 +1053,11 @@
             "@bobbysmith",
             "@yharrington"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "life",
+            "disease"
+        ]
     },
     {
         "id": "1046",
@@ -892,7 +1076,11 @@
             "@hdunn",
             "@michaelconley"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1047",
@@ -910,7 +1098,11 @@
             "@darlene03",
             "@jwood"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "climate",
+            "biodiversity"
+        ]
     },
     {
         "id": "1048",
@@ -930,7 +1122,11 @@
             "@bobbysmith",
             "@kevinramirez"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1049",
@@ -947,7 +1143,11 @@
             "@rclark",
             "@courtney67"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "global",
+            "recycle"
+        ]
     },
     {
         "id": "1050",
@@ -968,7 +1168,11 @@
             "@reynoldsbenjamin",
             "@bmartinez"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "tour",
+            "adele"
+        ]
     },
     {
         "id": "1051",
@@ -988,7 +1192,11 @@
             "@btyler",
             "@mmurphy"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1052",
@@ -1007,7 +1215,11 @@
             "@patrick76",
             "@darlene03"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "carbon",
+            "renewable"
+        ]
     },
     {
         "id": "1053",
@@ -1026,7 +1238,11 @@
             "@thuynh",
             "@darlene03"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "vacation",
+            "trip"
+        ]
     },
     {
         "id": "1054",
@@ -1042,7 +1258,11 @@
             "@amymorris",
             "@sarahmartinez"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1055",
@@ -1063,7 +1283,11 @@
             "@qhawkins",
             "@williamsbianca"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "sarah",
+            "knowledge"
+        ]
     },
     {
         "id": "1056",
@@ -1082,7 +1306,11 @@
             "@rachel02",
             "@staffordhenry"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1057",
@@ -1099,7 +1327,11 @@
             "@carlastevenson",
             "@amoore"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1058",
@@ -1120,7 +1352,11 @@
             "@vvalenzuela",
             "@amymorris"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1059",
@@ -1139,7 +1375,11 @@
             "@gregwoods",
             "@michaelconley"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1060",
@@ -1159,7 +1399,11 @@
             "@oliviarichard",
             "@gregwoods"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1061",
@@ -1180,7 +1424,11 @@
             "@terrencewolf",
             "@kathleen40"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "mariamiller",
+            "economy"
+        ]
     },
     {
         "id": "1062",
@@ -1199,7 +1447,11 @@
             "@kelli06",
             "@longamanda"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1063",
@@ -1219,7 +1471,11 @@
             "@kevinramirez",
             "@qhawkins"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "football",
+            "olympics"
+        ]
     },
     {
         "id": "1064",
@@ -1237,7 +1493,11 @@
             "@sarahmartinez",
             "@ybentley"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "awareness",
+            "mental"
+        ]
     },
     {
         "id": "1065",
@@ -1257,7 +1517,11 @@
             "@vvalenzuela",
             "@mariamiller"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1066",
@@ -1275,7 +1539,11 @@
             "@rachel02",
             "@rachel02"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "boxoffice",
+            "rachel"
+        ]
     },
     {
         "id": "1067",
@@ -1291,7 +1559,11 @@
             "@tpeterson",
             "@mmurphy"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1068",
@@ -1310,7 +1582,11 @@
             "@hdunn",
             "@thuynh"
         ],
-        "sentiment": "positif"
+        "sentiment": "positif",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1069",
@@ -1328,7 +1604,11 @@
             "@darlene03",
             "@ugay"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1070",
@@ -1345,7 +1625,11 @@
             "@rclark",
             "@tpeterson"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "global",
+            "recycle"
+        ]
     },
     {
         "id": "1071",
@@ -1364,7 +1648,11 @@
             "@ybentley",
             "@bobbysmith"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1072",
@@ -1381,7 +1669,11 @@
             "@bobbysmith",
             "@longamanda"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1073",
@@ -1398,7 +1690,11 @@
             "@patrick76",
             "@thuynh"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1074",
@@ -1420,7 +1716,11 @@
             "@sarah06",
             "@lisa45"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1075",
@@ -1442,7 +1742,11 @@
             "@matthewbraun",
             "@kathleen40"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "passport",
+            "cruise"
+        ]
     },
     {
         "id": "1076",
@@ -1461,7 +1765,11 @@
             "@brittany53",
             "@mmurphy"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "passport",
+            "cruise"
+        ]
     },
     {
         "id": "1077",
@@ -1480,7 +1788,11 @@
             "@brittany53",
             "@rachel02"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "boxoffice",
+            "rachel"
+        ]
     },
     {
         "id": "1078",
@@ -1498,7 +1810,11 @@
             "@carlastevenson",
             "@watsonbianca"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "passport",
+            "cruise"
+        ]
     },
     {
         "id": "1079",
@@ -1517,7 +1833,11 @@
             "@jwood",
             "@jacobhoover"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "degree",
+            "teacher"
+        ]
     },
     {
         "id": "1080",
@@ -1539,7 +1859,11 @@
             "@matthewbraun",
             "@ybentley"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1081",
@@ -1559,7 +1883,11 @@
             "@scraig",
             "@kelli06"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "football",
+            "olympics"
+        ]
     },
     {
         "id": "1082",
@@ -1575,7 +1903,11 @@
             "@darlene03",
             "@cruzzachary"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "carbon",
+            "renewable"
+        ]
     },
     {
         "id": "1083",
@@ -1596,7 +1928,11 @@
             "@guzmanamber",
             "@mariamiller"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1084",
@@ -1616,7 +1952,11 @@
             "@amoore",
             "@michaelconley"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1085",
@@ -1634,7 +1974,11 @@
             "@tpeterson",
             "@jonathanking"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "passport",
+            "cruise"
+        ]
     },
     {
         "id": "1086",
@@ -1654,7 +1998,11 @@
             "@mooregeorge",
             "@mooregeorge"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "movie",
+            "swift"
+        ]
     },
     {
         "id": "1087",
@@ -1674,7 +2022,11 @@
             "@scraig",
             "@reynoldsbenjamin"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1088",
@@ -1695,7 +2047,11 @@
             "@michaelconley",
             "@rclark"
         ],
-        "sentiment": "négatif"
+        "sentiment": "négatif",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1089",
@@ -1714,7 +2070,11 @@
             "@darrelledwards",
             "@williamsbianca"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "fasting",
+            "williamsbianca"
+        ]
     },
     {
         "id": "1090",
@@ -1733,7 +2093,11 @@
             "@lisa45",
             "@amymorris"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1091",
@@ -1753,7 +2117,11 @@
             "@watsonbianca",
             "@bobbysmith"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     },
     {
         "id": "1092",
@@ -1773,7 +2141,11 @@
             "@kelli06",
             "@sarah06"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1093",
@@ -1789,7 +2161,11 @@
             "@tpeterson",
             "@jonathanking"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "learning",
+            "scholarship"
+        ]
     },
     {
         "id": "1094",
@@ -1809,7 +2185,11 @@
             "@rclark",
             "@douglasgonzalez"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "boxoffice",
+            "rachel"
+        ]
     },
     {
         "id": "1095",
@@ -1830,7 +2210,11 @@
             "@yharrington",
             "@mooregeorge"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "global",
+            "recycle"
+        ]
     },
     {
         "id": "1096",
@@ -1849,7 +2233,11 @@
             "@tpeterson",
             "@rrice"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "medicine",
+            "doctor"
+        ]
     },
     {
         "id": "1097",
@@ -1867,7 +2255,11 @@
             "@longamanda",
             "@terrencewolf"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "passport",
+            "cruise"
+        ]
     },
     {
         "id": "1098",
@@ -1885,7 +2277,11 @@
             "@watsonbianca",
             "@thuynh"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "future",
+            "tesla"
+        ]
     },
     {
         "id": "1099",
@@ -1905,6 +2301,10 @@
             "@mooregeorge",
             "@williamsbianca"
         ],
-        "sentiment": "neutre"
+        "sentiment": "neutre",
+        "topic": [
+            "dish",
+            "senate"
+        ]
     }
 ]
