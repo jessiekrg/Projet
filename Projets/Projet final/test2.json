@@ -1,0 +1,6680 @@
+[
+    {
+        "id": "1000",
+        "author_id": "2000",
+        "text": "Discussing éducation topics like learning, student, teacher, homework, exam, scholarship. @michaelconley @btyler @mariamiller #learning #student #teacher #homework #exam #scholarship",
+        "lang": "en",
+        "created_at": "2023-12-09T00:42:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "michaelconley",
+                    "id": "3281"
+                },
+                {
+                    "username": "btyler",
+                    "id": "3116"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "3293"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "learning"
+                },
+                {
+                    "tag": "student"
+                },
+                {
+                    "tag": "teacher"
+                },
+                {
+                    "tag": "homework"
+                },
+                {
+                    "tag": "exam"
+                },
+                {
+                    "tag": "scholarship"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 17,
+            "reply_count": 8,
+            "like_count": 324,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4000",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -147.866268,
+                    -72.817536
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "exam"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1001",
+        "author_id": "2001",
+        "text": "Discussing divertissement topics like music, oscars, marvel, netflix. @mmurphy @patrick76 @perezsteven @gregwoods @mooregeorge #music #oscars #marvel #netflix",
+        "lang": "en",
+        "created_at": "2023-12-01T11:36:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "mmurphy",
+                    "id": "3380"
+                },
+                {
+                    "username": "patrick76",
+                    "id": "3700"
+                },
+                {
+                    "username": "perezsteven",
+                    "id": "3839"
+                },
+                {
+                    "username": "gregwoods",
+                    "id": "3215"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3445"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "music"
+                },
+                {
+                    "tag": "oscars"
+                },
+                {
+                    "tag": "marvel"
+                },
+                {
+                    "tag": "netflix"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 87,
+            "reply_count": 20,
+            "like_count": 129,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4001",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -60.467025,
+                    -38.672424
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "music"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1002",
+        "author_id": "2002",
+        "text": "Discussing sports topics like athletes, match, goal, score, qualifiers, basketball. @ybentley @douglasgonzalez @williamsbianca @amymorris @longamanda #athletes #match #goal #score #qualifiers #basketball",
+        "lang": "en",
+        "created_at": "2023-12-10T12:37:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "ybentley",
+                    "id": "3785"
+                },
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3497"
+                },
+                {
+                    "username": "williamsbianca",
+                    "id": "3566"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3983"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "4000"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "athletes"
+                },
+                {
+                    "tag": "match"
+                },
+                {
+                    "tag": "goal"
+                },
+                {
+                    "tag": "score"
+                },
+                {
+                    "tag": "qualifiers"
+                },
+                {
+                    "tag": "basketball"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 77,
+            "reply_count": 44,
+            "like_count": 264,
+            "quote_count": 18
+        },
+        "geo": {
+            "place_id": "4002",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    124.30399,
+                    -0.557152
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Sports"
+                },
+                "entity": {
+                    "name": "basketball"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1003",
+        "author_id": "2003",
+        "text": "Discussing voyages topics like tourism, hotel, flight, travel, beach, destination. @kelli06 @oliviarichard @rrice #tourism #hotel #flight #travel #beach #destination",
+        "lang": "en",
+        "created_at": "2023-12-27T00:42:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kelli06",
+                    "id": "3530"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3322"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3344"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "tourism"
+                },
+                {
+                    "tag": "hotel"
+                },
+                {
+                    "tag": "flight"
+                },
+                {
+                    "tag": "travel"
+                },
+                {
+                    "tag": "beach"
+                },
+                {
+                    "tag": "destination"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 11,
+            "like_count": 472,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4003",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -103.98786,
+                    76.634765
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "beach"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1004",
+        "author_id": "2004",
+        "text": "Discussing voyages topics like holiday, travel, trip. @kevinramirez @jasondavis @amymorris #holiday #travel #trip",
+        "lang": "en",
+        "created_at": "2023-12-25T19:52:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kevinramirez",
+                    "id": "3550"
+                },
+                {
+                    "username": "jasondavis",
+                    "id": "3413"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3914"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "holiday"
+                },
+                {
+                    "tag": "travel"
+                },
+                {
+                    "tag": "trip"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 23,
+            "like_count": 194,
+            "quote_count": 11
+        },
+        "geo": {
+            "place_id": "4004",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    77.626844,
+                    -30.31301
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "trip"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1005",
+        "author_id": "2005",
+        "text": "Discussing cuisine topics like food, baking, restaurant, chef. @courtney67 @jacobhoover @perezsteven #food #baking #restaurant #chef",
+        "lang": "en",
+        "created_at": "2023-12-20T22:08:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "courtney67",
+                    "id": "3696"
+                },
+                {
+                    "username": "jacobhoover",
+                    "id": "3756"
+                },
+                {
+                    "username": "perezsteven",
+                    "id": "3399"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "food"
+                },
+                {
+                    "tag": "baking"
+                },
+                {
+                    "tag": "restaurant"
+                },
+                {
+                    "tag": "chef"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 94,
+            "reply_count": 21,
+            "like_count": 480,
+            "quote_count": 14
+        },
+        "geo": {
+            "place_id": "4005",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    160.947819,
+                    65.847445
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "food"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1006",
+        "author_id": "2006",
+        "text": "Discussing politique topics like election, senate, government, campaign. @vvalenzuela @vvalenzuela @cruzzachary @courtney67 @darrelledwards #election #senate #government #campaign",
+        "lang": "en",
+        "created_at": "2023-12-05T08:55:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "vvalenzuela",
+                    "id": "3936"
+                },
+                {
+                    "username": "vvalenzuela",
+                    "id": "3079"
+                },
+                {
+                    "username": "cruzzachary",
+                    "id": "3395"
+                },
+                {
+                    "username": "courtney67",
+                    "id": "3896"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3267"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "election"
+                },
+                {
+                    "tag": "senate"
+                },
+                {
+                    "tag": "government"
+                },
+                {
+                    "tag": "campaign"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 97,
+            "reply_count": 3,
+            "like_count": 386,
+            "quote_count": 10
+        },
+        "geo": {
+            "place_id": "4006",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -104.551418,
+                    -39.270298
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "government"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1007",
+        "author_id": "2007",
+        "text": "Discussing cuisine topics like dish, recipe, cooking, baking, meal. @brittany53 @rrice @watsonbianca @rachel02 #dish #recipe #cooking #baking #meal",
+        "lang": "en",
+        "created_at": "2023-12-20T15:01:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "brittany53",
+                    "id": "3895"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3272"
+                },
+                {
+                    "username": "watsonbianca",
+                    "id": "3565"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3050"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "dish"
+                },
+                {
+                    "tag": "recipe"
+                },
+                {
+                    "tag": "cooking"
+                },
+                {
+                    "tag": "baking"
+                },
+                {
+                    "tag": "meal"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 32,
+            "like_count": 71,
+            "quote_count": 15
+        },
+        "geo": {
+            "place_id": "4007",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -106.330636,
+                    62.875007
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "baking"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1008",
+        "author_id": "2008",
+        "text": "Discussing cuisine topics like dinner, meal, dish, baking, restaurant. @longamanda @jwood @amymorris @carlastevenson @lisa45 #dinner #meal #dish #baking #restaurant",
+        "lang": "en",
+        "created_at": "2023-12-05T12:38:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "longamanda",
+                    "id": "3571"
+                },
+                {
+                    "username": "jwood",
+                    "id": "3102"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3978"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3874"
+                },
+                {
+                    "username": "lisa45",
+                    "id": "3643"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "dinner"
+                },
+                {
+                    "tag": "meal"
+                },
+                {
+                    "tag": "dish"
+                },
+                {
+                    "tag": "baking"
+                },
+                {
+                    "tag": "restaurant"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 65,
+            "reply_count": 32,
+            "like_count": 349,
+            "quote_count": 5
+        },
+        "geo": {
+            "place_id": "4008",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -96.917252,
+                    -41.044487
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "baking"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1009",
+        "author_id": "2009",
+        "text": "Discussing technologie topics like artificial, algorithm, vehicle. @oliviarichard @kelli06 @staffordhenry #artificial #algorithm #vehicle",
+        "lang": "en",
+        "created_at": "2023-12-09T17:30:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "oliviarichard",
+                    "id": "3779"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3910"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3386"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "artificial"
+                },
+                {
+                    "tag": "algorithm"
+                },
+                {
+                    "tag": "vehicle"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 19,
+            "like_count": 423,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4009",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -100.859694,
+                    -17.763596
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "algorithm"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1010",
+        "author_id": "2010",
+        "text": "Discussing technologie topics like ai, algorithm, 5g, future. @bmartinez @staffordhenry @staffordhenry @staffordhenry #ai #algorithm #5g #future",
+        "lang": "en",
+        "created_at": "2023-12-07T01:07:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "bmartinez",
+                    "id": "3998"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3219"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3657"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3342"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "algorithm"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "future"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 87,
+            "reply_count": 22,
+            "like_count": 484,
+            "quote_count": 17
+        },
+        "geo": {
+            "place_id": "4010",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -155.464675,
+                    6.495423
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "5g"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1011",
+        "author_id": "2011",
+        "text": "Discussing politique topics like policy, president, parliament, law, senate, vote. @gregwoods @jasondavis @michaelconley @gregwoods @mmurphy #policy #president #parliament #law #senate #vote",
+        "lang": "en",
+        "created_at": "2023-12-25T08:30:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "gregwoods",
+                    "id": "3166"
+                },
+                {
+                    "username": "jasondavis",
+                    "id": "3122"
+                },
+                {
+                    "username": "michaelconley",
+                    "id": "3305"
+                },
+                {
+                    "username": "gregwoods",
+                    "id": "3930"
+                },
+                {
+                    "username": "mmurphy",
+                    "id": "3396"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "policy"
+                },
+                {
+                    "tag": "president"
+                },
+                {
+                    "tag": "parliament"
+                },
+                {
+                    "tag": "law"
+                },
+                {
+                    "tag": "senate"
+                },
+                {
+                    "tag": "vote"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 50,
+            "like_count": 60,
+            "quote_count": 2
+        },
+        "geo": {
+            "place_id": "4011",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -23.976975,
+                    75.421285
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "president"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1012",
+        "author_id": "2012",
+        "text": "Discussing cuisine topics like recipe, dinner, menu, flavor, dish. @rclark @carlastevenson @sarahmartinez @longamanda #recipe #dinner #menu #flavor #dish",
+        "lang": "en",
+        "created_at": "2023-12-07T08:40:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rclark",
+                    "id": "3468"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3701"
+                },
+                {
+                    "username": "sarahmartinez",
+                    "id": "3741"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "3859"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "recipe"
+                },
+                {
+                    "tag": "dinner"
+                },
+                {
+                    "tag": "menu"
+                },
+                {
+                    "tag": "flavor"
+                },
+                {
+                    "tag": "dish"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 45,
+            "like_count": 102,
+            "quote_count": 3
+        },
+        "geo": {
+            "place_id": "4012",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -159.94848,
+                    64.039607
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "menu"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1013",
+        "author_id": "2013",
+        "text": "Discussing technologie topics like vehicle, smartphone, ai, tesla, artificial. @vvalenzuela @darrelledwards #vehicle #smartphone #ai #tesla #artificial",
+        "lang": "en",
+        "created_at": "2023-12-07T15:46:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "vvalenzuela",
+                    "id": "3203"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3262"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "vehicle"
+                },
+                {
+                    "tag": "smartphone"
+                },
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "artificial"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 32,
+            "like_count": 298,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4013",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    99.234884,
+                    -20.314374
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "ai"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1014",
+        "author_id": "2014",
+        "text": "Discussing éducation topics like student, education, teacher, degree. @matthewbraun @tpeterson #student #education #teacher #degree",
+        "lang": "en",
+        "created_at": "2023-12-21T07:31:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "matthewbraun",
+                    "id": "3979"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3108"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "student"
+                },
+                {
+                    "tag": "education"
+                },
+                {
+                    "tag": "teacher"
+                },
+                {
+                    "tag": "degree"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 45,
+            "reply_count": 48,
+            "like_count": 28,
+            "quote_count": 15
+        },
+        "geo": {
+            "place_id": "4014",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    53.489531,
+                    -18.838572
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "teacher"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1015",
+        "author_id": "2015",
+        "text": "Discussing technologie topics like artificial, tesla, machine, robot, future, ai. @jonathanking @terrencewolf @kevinramirez #artificial #tesla #machine #robot #future #ai",
+        "lang": "en",
+        "created_at": "2023-12-26T01:25:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "jonathanking",
+                    "id": "3971"
+                },
+                {
+                    "username": "terrencewolf",
+                    "id": "3389"
+                },
+                {
+                    "username": "kevinramirez",
+                    "id": "3990"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "artificial"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "machine"
+                },
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "ai"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 13,
+            "like_count": 279,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4015",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -62.70033,
+                    -53.809527
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "future"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1016",
+        "author_id": "2016",
+        "text": "Discussing technologie topics like data, 5g, machine. @mmurphy @kathleen40 #data #5g #machine",
+        "lang": "en",
+        "created_at": "2023-12-11T15:44:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "mmurphy",
+                    "id": "3752"
+                },
+                {
+                    "username": "kathleen40",
+                    "id": "3911"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "data"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "machine"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 73,
+            "reply_count": 8,
+            "like_count": 351,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4016",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    7.89726,
+                    -70.421374
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "data"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1017",
+        "author_id": "2017",
+        "text": "Discussing politique topics like law, vote, government, president, minister. @vvalenzuela @rrice @carlastevenson @btyler #law #vote #government #president #minister",
+        "lang": "en",
+        "created_at": "2023-12-15T18:41:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "vvalenzuela",
+                    "id": "3146"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3200"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3557"
+                },
+                {
+                    "username": "btyler",
+                    "id": "3460"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "law"
+                },
+                {
+                    "tag": "vote"
+                },
+                {
+                    "tag": "government"
+                },
+                {
+                    "tag": "president"
+                },
+                {
+                    "tag": "minister"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 11,
+            "like_count": 105,
+            "quote_count": 17
+        },
+        "geo": {
+            "place_id": "4017",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    105.914556,
+                    26.315395
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "president"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1018",
+        "author_id": "2018",
+        "text": "Discussing cuisine topics like cooking, dinner, dish, chef. @guzmanamber @qhawkins @vvalenzuela @matthewbraun #cooking #dinner #dish #chef",
+        "lang": "en",
+        "created_at": "2023-12-20T07:13:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "guzmanamber",
+                    "id": "3835"
+                },
+                {
+                    "username": "qhawkins",
+                    "id": "3907"
+                },
+                {
+                    "username": "vvalenzuela",
+                    "id": "3300"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3032"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "cooking"
+                },
+                {
+                    "tag": "dinner"
+                },
+                {
+                    "tag": "dish"
+                },
+                {
+                    "tag": "chef"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 87,
+            "reply_count": 21,
+            "like_count": 425,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4018",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -139.839221,
+                    37.750108
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "chef"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1019",
+        "author_id": "2019",
+        "text": "Discussing technologie topics like intelligence, vehicle, tesla, smartphone, 5g, robot. @ugay @rclark @kelli06 @rachel02 @oliviarichard #intelligence #vehicle #tesla #smartphone #5g #robot",
+        "lang": "en",
+        "created_at": "2023-12-22T04:17:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "ugay",
+                    "id": "3140"
+                },
+                {
+                    "username": "rclark",
+                    "id": "3766"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3525"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3153"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3304"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "intelligence"
+                },
+                {
+                    "tag": "vehicle"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "smartphone"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "robot"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 80,
+            "reply_count": 42,
+            "like_count": 354,
+            "quote_count": 3
+        },
+        "geo": {
+            "place_id": "4019",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -76.826407,
+                    -35.242027
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "vehicle"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1020",
+        "author_id": "2020",
+        "text": "Discussing technologie topics like vehicle, artificial, robot, future, smartphone. @staffordhenry @lisa45 #vehicle #artificial #robot #future #smartphone",
+        "lang": "en",
+        "created_at": "2023-12-09T11:10:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "staffordhenry",
+                    "id": "3007"
+                },
+                {
+                    "username": "lisa45",
+                    "id": "3802"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "vehicle"
+                },
+                {
+                    "tag": "artificial"
+                },
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "smartphone"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 73,
+            "reply_count": 47,
+            "like_count": 197,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4020",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    96.566561,
+                    16.418842
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "robot"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1021",
+        "author_id": "2021",
+        "text": "Discussing santé topics like mental, life, awareness, fasting. @gregwoods @douglasgonzalez @reynoldsbenjamin #mental #life #awareness #fasting",
+        "lang": "en",
+        "created_at": "2023-12-09T12:51:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "gregwoods",
+                    "id": "3761"
+                },
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3927"
+                },
+                {
+                    "username": "reynoldsbenjamin",
+                    "id": "3431"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "mental"
+                },
+                {
+                    "tag": "life"
+                },
+                {
+                    "tag": "awareness"
+                },
+                {
+                    "tag": "fasting"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 7,
+            "like_count": 364,
+            "quote_count": 3
+        },
+        "geo": {
+            "place_id": "4021",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    90.0478,
+                    84.942797
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "fasting"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1022",
+        "author_id": "2022",
+        "text": "Discussing technologie topics like future, programming, smartphone, autonomous, intelligence. @jacobhoover @jacobhoover @staffordhenry @tpeterson @scraig #future #programming #smartphone #autonomous #intelligence",
+        "lang": "en",
+        "created_at": "2023-12-23T07:50:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "jacobhoover",
+                    "id": "3225"
+                },
+                {
+                    "username": "jacobhoover",
+                    "id": "3023"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3320"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3073"
+                },
+                {
+                    "username": "scraig",
+                    "id": "3208"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "programming"
+                },
+                {
+                    "tag": "smartphone"
+                },
+                {
+                    "tag": "autonomous"
+                },
+                {
+                    "tag": "intelligence"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 45,
+            "like_count": 147,
+            "quote_count": 11
+        },
+        "geo": {
+            "place_id": "4022",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    163.789011,
+                    -29.881633
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "autonomous"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1023",
+        "author_id": "2023",
+        "text": "Discussing divertissement topics like festival, music, series, marvel, album. @kevinramirez @carlastevenson @terrencewolf @longamanda #festival #music #series #marvel #album",
+        "lang": "en",
+        "created_at": "2023-12-22T16:34:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kevinramirez",
+                    "id": "3120"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3404"
+                },
+                {
+                    "username": "terrencewolf",
+                    "id": "3295"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "3300"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "festival"
+                },
+                {
+                    "tag": "music"
+                },
+                {
+                    "tag": "series"
+                },
+                {
+                    "tag": "marvel"
+                },
+                {
+                    "tag": "album"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 31,
+            "like_count": 327,
+            "quote_count": 2
+        },
+        "geo": {
+            "place_id": "4023",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    15.988002,
+                    -54.386385
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "series"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1024",
+        "author_id": "2024",
+        "text": "Discussing voyages topics like passport, trip, travel, destination, cruise. @patrick76 @btyler @terrencewolf @matthewbraun @amymorris #passport #trip #travel #destination #cruise",
+        "lang": "en",
+        "created_at": "2023-12-20T07:53:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "patrick76",
+                    "id": "3628"
+                },
+                {
+                    "username": "btyler",
+                    "id": "3664"
+                },
+                {
+                    "username": "terrencewolf",
+                    "id": "3714"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3100"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3210"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "passport"
+                },
+                {
+                    "tag": "trip"
+                },
+                {
+                    "tag": "travel"
+                },
+                {
+                    "tag": "destination"
+                },
+                {
+                    "tag": "cruise"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 9,
+            "like_count": 452,
+            "quote_count": 8
+        },
+        "geo": {
+            "place_id": "4024",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    41.280057,
+                    -39.191132
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "travel"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1025",
+        "author_id": "2025",
+        "text": "Discussing éducation topics like teacher, course, knowledge, scholarship. @rachel02 @darlene03 @jasondavis @rclark @darrelledwards #teacher #course #knowledge #scholarship",
+        "lang": "en",
+        "created_at": "2023-12-01T01:46:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rachel02",
+                    "id": "3428"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3343"
+                },
+                {
+                    "username": "jasondavis",
+                    "id": "3606"
+                },
+                {
+                    "username": "rclark",
+                    "id": "3250"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3101"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "teacher"
+                },
+                {
+                    "tag": "course"
+                },
+                {
+                    "tag": "knowledge"
+                },
+                {
+                    "tag": "scholarship"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 83,
+            "reply_count": 26,
+            "like_count": 359,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4025",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    129.905599,
+                    -30.806151
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "course"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1026",
+        "author_id": "2026",
+        "text": "Discussing politique topics like minister, government, debate. @brittany53 @ugay #minister #government #debate",
+        "lang": "en",
+        "created_at": "2023-12-02T22:22:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "brittany53",
+                    "id": "3070"
+                },
+                {
+                    "username": "ugay",
+                    "id": "3145"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "minister"
+                },
+                {
+                    "tag": "government"
+                },
+                {
+                    "tag": "debate"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 50,
+            "like_count": 253,
+            "quote_count": 3
+        },
+        "geo": {
+            "place_id": "4026",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.947382,
+                    78.320326
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "government"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1027",
+        "author_id": "2027",
+        "text": "Discussing technologie topics like robot, data, tesla, future. @jwood @williamsbianca #robot #data #tesla #future",
+        "lang": "en",
+        "created_at": "2023-12-10T20:49:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "jwood",
+                    "id": "3943"
+                },
+                {
+                    "username": "williamsbianca",
+                    "id": "3315"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "data"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "future"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 88,
+            "reply_count": 26,
+            "like_count": 55,
+            "quote_count": 19
+        },
+        "geo": {
+            "place_id": "4027",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -133.436765,
+                    51.726047
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "data"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1028",
+        "author_id": "2028",
+        "text": "Discussing politique topics like vote, senate, government. @amoore @sarahmartinez #vote #senate #government",
+        "lang": "en",
+        "created_at": "2023-12-21T20:44:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "amoore",
+                    "id": "3886"
+                },
+                {
+                    "username": "sarahmartinez",
+                    "id": "3928"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "vote"
+                },
+                {
+                    "tag": "senate"
+                },
+                {
+                    "tag": "government"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 76,
+            "reply_count": 0,
+            "like_count": 483,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4028",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    47.691855,
+                    -25.024651
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "vote"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1029",
+        "author_id": "2029",
+        "text": "Discussing santé topics like nutrition, doctor, exercise, fasting, wellness. @kevinramirez @bobbysmith @carlastevenson @jonathanking @vvalenzuela #nutrition #doctor #exercise #fasting #wellness",
+        "lang": "en",
+        "created_at": "2023-12-31T10:04:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kevinramirez",
+                    "id": "3211"
+                },
+                {
+                    "username": "bobbysmith",
+                    "id": "3195"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3553"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3719"
+                },
+                {
+                    "username": "vvalenzuela",
+                    "id": "3485"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "nutrition"
+                },
+                {
+                    "tag": "doctor"
+                },
+                {
+                    "tag": "exercise"
+                },
+                {
+                    "tag": "fasting"
+                },
+                {
+                    "tag": "wellness"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 47,
+            "reply_count": 34,
+            "like_count": 252,
+            "quote_count": 18
+        },
+        "geo": {
+            "place_id": "4029",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -66.906326,
+                    -2.159882
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "nutrition"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1030",
+        "author_id": "2030",
+        "text": "Discussing éducation topics like student, teacher, class, homework. @patrick76 @jwood @perezsteven @guzmanamber #student #teacher #class #homework",
+        "lang": "en",
+        "created_at": "2023-12-12T19:07:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "patrick76",
+                    "id": "3982"
+                },
+                {
+                    "username": "jwood",
+                    "id": "3509"
+                },
+                {
+                    "username": "perezsteven",
+                    "id": "3058"
+                },
+                {
+                    "username": "guzmanamber",
+                    "id": "3935"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "student"
+                },
+                {
+                    "tag": "teacher"
+                },
+                {
+                    "tag": "class"
+                },
+                {
+                    "tag": "homework"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 55,
+            "reply_count": 17,
+            "like_count": 490,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4030",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -20.512179,
+                    82.647343
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "teacher"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1031",
+        "author_id": "2031",
+        "text": "Discussing technologie topics like ai, future, machine. @gregwoods @terrencewolf @staffordhenry #ai #future #machine",
+        "lang": "en",
+        "created_at": "2023-12-26T00:08:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "gregwoods",
+                    "id": "3182"
+                },
+                {
+                    "username": "terrencewolf",
+                    "id": "3869"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3004"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "machine"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 24,
+            "reply_count": 46,
+            "like_count": 344,
+            "quote_count": 11
+        },
+        "geo": {
+            "place_id": "4031",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -55.229895,
+                    79.959544
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "machine"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1032",
+        "author_id": "2032",
+        "text": "Discussing éducation topics like learning, university, course, exam. @carlastevenson @darrelledwards @yharrington @mooregeorge @matthewbraun #learning #university #course #exam",
+        "lang": "en",
+        "created_at": "2023-12-23T04:58:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "carlastevenson",
+                    "id": "3083"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3224"
+                },
+                {
+                    "username": "yharrington",
+                    "id": "3975"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3075"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3037"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "learning"
+                },
+                {
+                    "tag": "university"
+                },
+                {
+                    "tag": "course"
+                },
+                {
+                    "tag": "exam"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 65,
+            "reply_count": 17,
+            "like_count": 339,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4032",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    89.780714,
+                    19.06111
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "learning"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1033",
+        "author_id": "2033",
+        "text": "Discussing éducation topics like university, degree, learning, class, teacher. @btyler @mariamiller @mmurphy @kathleen40 @douglasgonzalez #university #degree #learning #class #teacher",
+        "lang": "en",
+        "created_at": "2023-12-15T05:22:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "btyler",
+                    "id": "3227"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "3687"
+                },
+                {
+                    "username": "mmurphy",
+                    "id": "3619"
+                },
+                {
+                    "username": "kathleen40",
+                    "id": "3515"
+                },
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3713"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "university"
+                },
+                {
+                    "tag": "degree"
+                },
+                {
+                    "tag": "learning"
+                },
+                {
+                    "tag": "class"
+                },
+                {
+                    "tag": "teacher"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 23,
+            "like_count": 86,
+            "quote_count": 2
+        },
+        "geo": {
+            "place_id": "4033",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    178.178307,
+                    -4.165681
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "degree"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1034",
+        "author_id": "2034",
+        "text": "Discussing économie topics like economy, finance, growth, money. @staffordhenry @mariamiller @perezsteven @amoore @mooregeorge #economy #finance #growth #money",
+        "lang": "en",
+        "created_at": "2023-12-30T17:36:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "staffordhenry",
+                    "id": "3527"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "3205"
+                },
+                {
+                    "username": "perezsteven",
+                    "id": "3703"
+                },
+                {
+                    "username": "amoore",
+                    "id": "3223"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3226"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "economy"
+                },
+                {
+                    "tag": "finance"
+                },
+                {
+                    "tag": "growth"
+                },
+                {
+                    "tag": "money"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 100,
+            "reply_count": 4,
+            "like_count": 128,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4034",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -132.010084,
+                    38.841787
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Économie"
+                },
+                "entity": {
+                    "name": "finance"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1035",
+        "author_id": "2035",
+        "text": "Discussing cuisine topics like lunch, recipe, restaurant. @rclark @cruzzachary @staffordhenry @rachel02 #lunch #recipe #restaurant",
+        "lang": "en",
+        "created_at": "2023-12-20T05:03:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rclark",
+                    "id": "3773"
+                },
+                {
+                    "username": "cruzzachary",
+                    "id": "3521"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3347"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3471"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "lunch"
+                },
+                {
+                    "tag": "recipe"
+                },
+                {
+                    "tag": "restaurant"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 28,
+            "like_count": 216,
+            "quote_count": 12
+        },
+        "geo": {
+            "place_id": "4035",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -18.47457,
+                    -88.667607
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "lunch"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1036",
+        "author_id": "2036",
+        "text": "Discussing économie topics like stock, finance, money, market. @bmartinez @carlastevenson @jonathanking #stock #finance #money #market",
+        "lang": "en",
+        "created_at": "2023-12-24T11:43:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "bmartinez",
+                    "id": "3349"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3704"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3074"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "stock"
+                },
+                {
+                    "tag": "finance"
+                },
+                {
+                    "tag": "money"
+                },
+                {
+                    "tag": "market"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 72,
+            "reply_count": 34,
+            "like_count": 381,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4036",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -4.697907,
+                    33.07605
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Économie"
+                },
+                "entity": {
+                    "name": "money"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1037",
+        "author_id": "2037",
+        "text": "Discussing technologie topics like autonomous, artificial, 5g, future. @sarah06 @amymorris #autonomous #artificial #5g #future",
+        "lang": "en",
+        "created_at": "2023-12-16T22:27:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "sarah06",
+                    "id": "3202"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3768"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "autonomous"
+                },
+                {
+                    "tag": "artificial"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "future"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 35,
+            "like_count": 387,
+            "quote_count": 15
+        },
+        "geo": {
+            "place_id": "4037",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    28.917287,
+                    -60.05727
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "5g"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1038",
+        "author_id": "2038",
+        "text": "Discussing voyages topics like holiday, vacation, adventure, trip. @michaelconley @mooregeorge @rrice @hdunn @rclark #holiday #vacation #adventure #trip",
+        "lang": "en",
+        "created_at": "2023-12-16T12:16:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "michaelconley",
+                    "id": "3624"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3352"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3607"
+                },
+                {
+                    "username": "hdunn",
+                    "id": "3603"
+                },
+                {
+                    "username": "rclark",
+                    "id": "3353"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "holiday"
+                },
+                {
+                    "tag": "vacation"
+                },
+                {
+                    "tag": "adventure"
+                },
+                {
+                    "tag": "trip"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 96,
+            "reply_count": 21,
+            "like_count": 405,
+            "quote_count": 15
+        },
+        "geo": {
+            "place_id": "4038",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -39.640681,
+                    -67.016621
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "vacation"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1039",
+        "author_id": "2039",
+        "text": "Discussing technologie topics like robot, vehicle, future, autonomous. @matthewbraun @guzmanamber @reynoldsbenjamin #robot #vehicle #future #autonomous",
+        "lang": "en",
+        "created_at": "2023-12-28T10:59:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "matthewbraun",
+                    "id": "3783"
+                },
+                {
+                    "username": "guzmanamber",
+                    "id": "3605"
+                },
+                {
+                    "username": "reynoldsbenjamin",
+                    "id": "3741"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "vehicle"
+                },
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "autonomous"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 20,
+            "reply_count": 17,
+            "like_count": 446,
+            "quote_count": 5
+        },
+        "geo": {
+            "place_id": "4039",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    103.041957,
+                    11.537263
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "future"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1040",
+        "author_id": "2040",
+        "text": "Discussing sports topics like olympics, football, gold. @cruzzachary @darlene03 @oliviarichard @jwood #olympics #football #gold",
+        "lang": "en",
+        "created_at": "2023-12-03T22:31:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "cruzzachary",
+                    "id": "3746"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3731"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3432"
+                },
+                {
+                    "username": "jwood",
+                    "id": "3724"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "olympics"
+                },
+                {
+                    "tag": "football"
+                },
+                {
+                    "tag": "gold"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 82,
+            "reply_count": 17,
+            "like_count": 217,
+            "quote_count": 3
+        },
+        "geo": {
+            "place_id": "4040",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -15.417745,
+                    -81.100739
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Sports"
+                },
+                "entity": {
+                    "name": "olympics"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1041",
+        "author_id": "2041",
+        "text": "Discussing technologie topics like programming, algorithm, tesla, robot, autonomous, 5g. @rclark @courtney67 @mariamiller #programming #algorithm #tesla #robot #autonomous #5g",
+        "lang": "en",
+        "created_at": "2023-12-09T09:38:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rclark",
+                    "id": "3828"
+                },
+                {
+                    "username": "courtney67",
+                    "id": "3145"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "3287"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "programming"
+                },
+                {
+                    "tag": "algorithm"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "autonomous"
+                },
+                {
+                    "tag": "5g"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 11,
+            "like_count": 66,
+            "quote_count": 20
+        },
+        "geo": {
+            "place_id": "4041",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    37.657093,
+                    -62.987667
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "5g"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1042",
+        "author_id": "2042",
+        "text": "Discussing cuisine topics like recipe, baking, meal, dish. @kelli06 @carlastevenson @cruzzachary @kelli06 #recipe #baking #meal #dish",
+        "lang": "en",
+        "created_at": "2023-12-27T07:40:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kelli06",
+                    "id": "3821"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3220"
+                },
+                {
+                    "username": "cruzzachary",
+                    "id": "3452"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3418"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "recipe"
+                },
+                {
+                    "tag": "baking"
+                },
+                {
+                    "tag": "meal"
+                },
+                {
+                    "tag": "dish"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 4,
+            "like_count": 24,
+            "quote_count": 11
+        },
+        "geo": {
+            "place_id": "4042",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    16.333964,
+                    -24.224633
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "dish"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1043",
+        "author_id": "2043",
+        "text": "Discussing technologie topics like smartphone, algorithm, autonomous, vehicle, data, future. @longamanda @brittany53 @longamanda @tpeterson #smartphone #algorithm #autonomous #vehicle #data #future",
+        "lang": "en",
+        "created_at": "2023-12-07T09:13:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "longamanda",
+                    "id": "3327"
+                },
+                {
+                    "username": "brittany53",
+                    "id": "3504"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "3428"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3232"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "smartphone"
+                },
+                {
+                    "tag": "algorithm"
+                },
+                {
+                    "tag": "autonomous"
+                },
+                {
+                    "tag": "vehicle"
+                },
+                {
+                    "tag": "data"
+                },
+                {
+                    "tag": "future"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 1,
+            "like_count": 98,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4043",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    70.120578,
+                    -38.680249
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "autonomous"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1044",
+        "author_id": "2044",
+        "text": "Discussing technologie topics like future, tesla, programming, machine, intelligence. @darlene03 @tpeterson #future #tesla #programming #machine #intelligence",
+        "lang": "en",
+        "created_at": "2023-12-01T11:28:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darlene03",
+                    "id": "3789"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3648"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "programming"
+                },
+                {
+                    "tag": "machine"
+                },
+                {
+                    "tag": "intelligence"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 29,
+            "reply_count": 5,
+            "like_count": 174,
+            "quote_count": 16
+        },
+        "geo": {
+            "place_id": "4044",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -155.93133,
+                    14.233611
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "machine"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1045",
+        "author_id": "2045",
+        "text": "Discussing santé topics like health, disease, life. @bobbysmith @yharrington #health #disease #life",
+        "lang": "en",
+        "created_at": "2023-12-31T09:49:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "bobbysmith",
+                    "id": "3521"
+                },
+                {
+                    "username": "yharrington",
+                    "id": "3585"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "health"
+                },
+                {
+                    "tag": "disease"
+                },
+                {
+                    "tag": "life"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 99,
+            "reply_count": 32,
+            "like_count": 80,
+            "quote_count": 16
+        },
+        "geo": {
+            "place_id": "4045",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    160.785092,
+                    -65.632881
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "health"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1046",
+        "author_id": "2046",
+        "text": "Discussing climat topics like weather, renewable, recycle, global, green. @vvalenzuela @hdunn @michaelconley #weather #renewable #recycle #global #green",
+        "lang": "en",
+        "created_at": "2023-12-12T07:19:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "vvalenzuela",
+                    "id": "3645"
+                },
+                {
+                    "username": "hdunn",
+                    "id": "3330"
+                },
+                {
+                    "username": "michaelconley",
+                    "id": "3732"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "weather"
+                },
+                {
+                    "tag": "renewable"
+                },
+                {
+                    "tag": "recycle"
+                },
+                {
+                    "tag": "global"
+                },
+                {
+                    "tag": "green"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 30,
+            "like_count": 121,
+            "quote_count": 15
+        },
+        "geo": {
+            "place_id": "4046",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    30.703315,
+                    38.139163
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "weather"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1047",
+        "author_id": "2047",
+        "text": "Discussing climat topics like environment, biodiversity, planet, climate, weather. @darlene03 @jwood #environment #biodiversity #planet #climate #weather",
+        "lang": "en",
+        "created_at": "2023-12-16T12:41:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darlene03",
+                    "id": "3246"
+                },
+                {
+                    "username": "jwood",
+                    "id": "3776"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "environment"
+                },
+                {
+                    "tag": "biodiversity"
+                },
+                {
+                    "tag": "planet"
+                },
+                {
+                    "tag": "climate"
+                },
+                {
+                    "tag": "weather"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 95,
+            "reply_count": 33,
+            "like_count": 420,
+            "quote_count": 17
+        },
+        "geo": {
+            "place_id": "4047",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -132.776221,
+                    -66.63148
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "environment"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1048",
+        "author_id": "2048",
+        "text": "Discussing santé topics like doctor, mental, wellness, awareness, diet, health. @darrelledwards @bobbysmith @kevinramirez #doctor #mental #wellness #awareness #diet #health",
+        "lang": "en",
+        "created_at": "2023-12-16T08:29:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darrelledwards",
+                    "id": "3581"
+                },
+                {
+                    "username": "bobbysmith",
+                    "id": "3367"
+                },
+                {
+                    "username": "kevinramirez",
+                    "id": "3208"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "doctor"
+                },
+                {
+                    "tag": "mental"
+                },
+                {
+                    "tag": "wellness"
+                },
+                {
+                    "tag": "awareness"
+                },
+                {
+                    "tag": "diet"
+                },
+                {
+                    "tag": "health"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 78,
+            "reply_count": 36,
+            "like_count": 172,
+            "quote_count": 6
+        },
+        "geo": {
+            "place_id": "4048",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    49.971677,
+                    35.995275
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "wellness"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1049",
+        "author_id": "2049",
+        "text": "Discussing climat topics like environment, global, warming, pollution. @rclark @courtney67 #environment #global #warming #pollution",
+        "lang": "en",
+        "created_at": "2023-12-18T04:43:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rclark",
+                    "id": "3734"
+                },
+                {
+                    "username": "courtney67",
+                    "id": "3586"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "environment"
+                },
+                {
+                    "tag": "global"
+                },
+                {
+                    "tag": "warming"
+                },
+                {
+                    "tag": "pollution"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 85,
+            "reply_count": 30,
+            "like_count": 198,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4049",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -150.425267,
+                    -14.860177
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "warming"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1050",
+        "author_id": "2050",
+        "text": "Discussing divertissement topics like adele, boxoffice, tour, theater, marvel. @kelli06 @jonathanking @amymorris @reynoldsbenjamin @bmartinez #adele #boxoffice #tour #theater #marvel",
+        "lang": "en",
+        "created_at": "2023-12-06T18:50:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kelli06",
+                    "id": "3142"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3724"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3317"
+                },
+                {
+                    "username": "reynoldsbenjamin",
+                    "id": "3685"
+                },
+                {
+                    "username": "bmartinez",
+                    "id": "3954"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "adele"
+                },
+                {
+                    "tag": "boxoffice"
+                },
+                {
+                    "tag": "tour"
+                },
+                {
+                    "tag": "theater"
+                },
+                {
+                    "tag": "marvel"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 93,
+            "reply_count": 35,
+            "like_count": 56,
+            "quote_count": 16
+        },
+        "geo": {
+            "place_id": "4050",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    63.508109,
+                    6.738331
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "marvel"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1051",
+        "author_id": "2051",
+        "text": "Discussing technologie topics like ai, smartphone, 5g, tesla, intelligence, autonomous. @staffordhenry @btyler @mmurphy #ai #smartphone #5g #tesla #intelligence #autonomous",
+        "lang": "en",
+        "created_at": "2023-12-03T14:40:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "staffordhenry",
+                    "id": "3528"
+                },
+                {
+                    "username": "btyler",
+                    "id": "3560"
+                },
+                {
+                    "username": "mmurphy",
+                    "id": "3801"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "smartphone"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "intelligence"
+                },
+                {
+                    "tag": "autonomous"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 66,
+            "reply_count": 6,
+            "like_count": 303,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4051",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -23.679223,
+                    79.648692
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "tesla"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1052",
+        "author_id": "2052",
+        "text": "Discussing économie topics like tax, growth, investment, finance, business, entrepreneur. @patrick76 @darlene03 #tax #growth #investment #finance #business #entrepreneur",
+        "lang": "en",
+        "created_at": "2023-12-15T20:38:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "patrick76",
+                    "id": "3857"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3514"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "tax"
+                },
+                {
+                    "tag": "growth"
+                },
+                {
+                    "tag": "investment"
+                },
+                {
+                    "tag": "finance"
+                },
+                {
+                    "tag": "business"
+                },
+                {
+                    "tag": "entrepreneur"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 89,
+            "reply_count": 30,
+            "like_count": 100,
+            "quote_count": 14
+        },
+        "geo": {
+            "place_id": "4052",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    87.737858,
+                    -47.013713
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Économie"
+                },
+                "entity": {
+                    "name": "finance"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1053",
+        "author_id": "2053",
+        "text": "Discussing voyages topics like adventure, vacation, destination, explore. @gregwoods @carlastevenson @thuynh @darlene03 #adventure #vacation #destination #explore",
+        "lang": "en",
+        "created_at": "2023-12-17T22:56:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "gregwoods",
+                    "id": "3253"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3078"
+                },
+                {
+                    "username": "thuynh",
+                    "id": "3164"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3652"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "adventure"
+                },
+                {
+                    "tag": "vacation"
+                },
+                {
+                    "tag": "destination"
+                },
+                {
+                    "tag": "explore"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 37,
+            "like_count": 482,
+            "quote_count": 5
+        },
+        "geo": {
+            "place_id": "4053",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -85.371396,
+                    -24.133435
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "vacation"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1054",
+        "author_id": "2054",
+        "text": "Discussing politique topics like minister, democracy, policy. @amymorris @sarahmartinez #minister #democracy #policy",
+        "lang": "en",
+        "created_at": "2023-12-15T11:04:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "amymorris",
+                    "id": "3238"
+                },
+                {
+                    "username": "sarahmartinez",
+                    "id": "3065"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "minister"
+                },
+                {
+                    "tag": "democracy"
+                },
+                {
+                    "tag": "policy"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 50,
+            "reply_count": 21,
+            "like_count": 250,
+            "quote_count": 17
+        },
+        "geo": {
+            "place_id": "4054",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    15.142957,
+                    46.242526
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "minister"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1055",
+        "author_id": "2055",
+        "text": "Discussing divertissement topics like album, festival, concert, series, adele. @kevinramirez @jwood @oliviarichard @qhawkins @williamsbianca #album #festival #concert #series #adele",
+        "lang": "en",
+        "created_at": "2023-12-28T00:59:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kevinramirez",
+                    "id": "3231"
+                },
+                {
+                    "username": "jwood",
+                    "id": "3872"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3731"
+                },
+                {
+                    "username": "qhawkins",
+                    "id": "3656"
+                },
+                {
+                    "username": "williamsbianca",
+                    "id": "3982"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "album"
+                },
+                {
+                    "tag": "festival"
+                },
+                {
+                    "tag": "concert"
+                },
+                {
+                    "tag": "series"
+                },
+                {
+                    "tag": "adele"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 47,
+            "like_count": 283,
+            "quote_count": 15
+        },
+        "geo": {
+            "place_id": "4055",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    70.038677,
+                    -55.464167
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "adele"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1056",
+        "author_id": "2056",
+        "text": "Discussing politique topics like debate, parliament, vote, president. @ugay @matthewbraun @rachel02 @staffordhenry #debate #parliament #vote #president",
+        "lang": "en",
+        "created_at": "2023-12-19T18:38:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "ugay",
+                    "id": "3679"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3426"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3146"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3540"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "debate"
+                },
+                {
+                    "tag": "parliament"
+                },
+                {
+                    "tag": "vote"
+                },
+                {
+                    "tag": "president"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 26,
+            "reply_count": 1,
+            "like_count": 34,
+            "quote_count": 18
+        },
+        "geo": {
+            "place_id": "4056",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -4.103072,
+                    -26.606296
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "vote"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1057",
+        "author_id": "2057",
+        "text": "Discussing santé topics like disease, hospital, health, medicine. @carlastevenson @amoore #disease #hospital #health #medicine",
+        "lang": "en",
+        "created_at": "2023-12-27T18:43:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "carlastevenson",
+                    "id": "3355"
+                },
+                {
+                    "username": "amoore",
+                    "id": "3281"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "disease"
+                },
+                {
+                    "tag": "hospital"
+                },
+                {
+                    "tag": "health"
+                },
+                {
+                    "tag": "medicine"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 9,
+            "like_count": 334,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4057",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    139.894168,
+                    61.544044
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "health"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1058",
+        "author_id": "2058",
+        "text": "Discussing technologie topics like artificial, data, ai, smartphone, programming. @amoore @tpeterson @jacobhoover @vvalenzuela @amymorris #artificial #data #ai #smartphone #programming",
+        "lang": "en",
+        "created_at": "2023-12-26T16:59:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "amoore",
+                    "id": "3504"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3409"
+                },
+                {
+                    "username": "jacobhoover",
+                    "id": "3107"
+                },
+                {
+                    "username": "vvalenzuela",
+                    "id": "3522"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3411"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "artificial"
+                },
+                {
+                    "tag": "data"
+                },
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "smartphone"
+                },
+                {
+                    "tag": "programming"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 1,
+            "like_count": 474,
+            "quote_count": 20
+        },
+        "geo": {
+            "place_id": "4058",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    95.657792,
+                    -83.960043
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "artificial"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1059",
+        "author_id": "2059",
+        "text": "Discussing sports topics like serena, league, basketball, match. @darrelledwards @patrick76 @gregwoods @michaelconley #serena #league #basketball #match",
+        "lang": "en",
+        "created_at": "2023-12-25T15:07:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darrelledwards",
+                    "id": "3658"
+                },
+                {
+                    "username": "patrick76",
+                    "id": "3460"
+                },
+                {
+                    "username": "gregwoods",
+                    "id": "3387"
+                },
+                {
+                    "username": "michaelconley",
+                    "id": "3963"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "serena"
+                },
+                {
+                    "tag": "league"
+                },
+                {
+                    "tag": "basketball"
+                },
+                {
+                    "tag": "match"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 50,
+            "like_count": 83,
+            "quote_count": 10
+        },
+        "geo": {
+            "place_id": "4059",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    151.988303,
+                    -69.656708
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Sports"
+                },
+                "entity": {
+                    "name": "match"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1060",
+        "author_id": "2060",
+        "text": "Discussing technologie topics like autonomous, algorithm, machine, intelligence. @watsonbianca @thuynh @rclark @oliviarichard @gregwoods #autonomous #algorithm #machine #intelligence",
+        "lang": "en",
+        "created_at": "2023-12-18T14:47:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "watsonbianca",
+                    "id": "3141"
+                },
+                {
+                    "username": "thuynh",
+                    "id": "3452"
+                },
+                {
+                    "username": "rclark",
+                    "id": "3361"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3158"
+                },
+                {
+                    "username": "gregwoods",
+                    "id": "3133"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "autonomous"
+                },
+                {
+                    "tag": "algorithm"
+                },
+                {
+                    "tag": "machine"
+                },
+                {
+                    "tag": "intelligence"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 27,
+            "like_count": 409,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4060",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -93.766868,
+                    -63.743207
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "algorithm"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1061",
+        "author_id": "2061",
+        "text": "Discussing divertissement topics like festival, netflix, theater, swift, boxoffice. @jonathanking @mariamiller @guzmanamber @terrencewolf @kathleen40 #festival #netflix #theater #swift #boxoffice",
+        "lang": "en",
+        "created_at": "2023-12-27T23:04:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "jonathanking",
+                    "id": "3129"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "3333"
+                },
+                {
+                    "username": "guzmanamber",
+                    "id": "3848"
+                },
+                {
+                    "username": "terrencewolf",
+                    "id": "3212"
+                },
+                {
+                    "username": "kathleen40",
+                    "id": "3132"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "festival"
+                },
+                {
+                    "tag": "netflix"
+                },
+                {
+                    "tag": "theater"
+                },
+                {
+                    "tag": "swift"
+                },
+                {
+                    "tag": "boxoffice"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 32,
+            "reply_count": 2,
+            "like_count": 87,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4061",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -114.471049,
+                    -42.048612
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "swift"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1062",
+        "author_id": "2062",
+        "text": "Discussing cuisine topics like ingredients, recipe, lunch. @courtney67 @rrice @darlene03 @kelli06 @longamanda #ingredients #recipe #lunch",
+        "lang": "en",
+        "created_at": "2023-12-02T08:10:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "courtney67",
+                    "id": "3821"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3999"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3976"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3815"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "3431"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "ingredients"
+                },
+                {
+                    "tag": "recipe"
+                },
+                {
+                    "tag": "lunch"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 11,
+            "like_count": 156,
+            "quote_count": 6
+        },
+        "geo": {
+            "place_id": "4062",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    39.051217,
+                    -80.286651
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "recipe"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1063",
+        "author_id": "2063",
+        "text": "Discussing climat topics like environment, green, sustainability, warming, carbon. @oliviarichard @btyler @kevinramirez @qhawkins #environment #green #sustainability #warming #carbon",
+        "lang": "en",
+        "created_at": "2023-12-11T04:26:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "oliviarichard",
+                    "id": "3771"
+                },
+                {
+                    "username": "btyler",
+                    "id": "3278"
+                },
+                {
+                    "username": "kevinramirez",
+                    "id": "3508"
+                },
+                {
+                    "username": "qhawkins",
+                    "id": "3064"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "environment"
+                },
+                {
+                    "tag": "green"
+                },
+                {
+                    "tag": "sustainability"
+                },
+                {
+                    "tag": "warming"
+                },
+                {
+                    "tag": "carbon"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 37,
+            "reply_count": 42,
+            "like_count": 465,
+            "quote_count": 11
+        },
+        "geo": {
+            "place_id": "4063",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    171.672915,
+                    52.50614
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "green"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1064",
+        "author_id": "2064",
+        "text": "Discussing économie topics like stock, entrepreneur, market, money, tax. @sarahmartinez @ybentley #stock #entrepreneur #market #money #tax",
+        "lang": "en",
+        "created_at": "2023-12-12T04:02:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "sarahmartinez",
+                    "id": "3203"
+                },
+                {
+                    "username": "ybentley",
+                    "id": "3942"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "stock"
+                },
+                {
+                    "tag": "entrepreneur"
+                },
+                {
+                    "tag": "market"
+                },
+                {
+                    "tag": "money"
+                },
+                {
+                    "tag": "tax"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 93,
+            "reply_count": 44,
+            "like_count": 189,
+            "quote_count": 20
+        },
+        "geo": {
+            "place_id": "4064",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -134.387085,
+                    68.136875
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Économie"
+                },
+                "entity": {
+                    "name": "money"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1065",
+        "author_id": "2065",
+        "text": "Discussing éducation topics like degree, course, exam, scholarship, learning. @mmurphy @oliviarichard @vvalenzuela @mariamiller #degree #course #exam #scholarship #learning",
+        "lang": "en",
+        "created_at": "2023-12-06T10:45:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "mmurphy",
+                    "id": "3929"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3955"
+                },
+                {
+                    "username": "vvalenzuela",
+                    "id": "3286"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "3471"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "degree"
+                },
+                {
+                    "tag": "course"
+                },
+                {
+                    "tag": "exam"
+                },
+                {
+                    "tag": "scholarship"
+                },
+                {
+                    "tag": "learning"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 95,
+            "reply_count": 35,
+            "like_count": 271,
+            "quote_count": 16
+        },
+        "geo": {
+            "place_id": "4065",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    29.502708,
+                    -39.314001
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "degree"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1066",
+        "author_id": "2066",
+        "text": "Discussing éducation topics like school, exam, student. @amymorris @staffordhenry @rachel02 @rachel02 #school #exam #student",
+        "lang": "en",
+        "created_at": "2023-12-07T19:00:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "amymorris",
+                    "id": "3448"
+                },
+                {
+                    "username": "staffordhenry",
+                    "id": "3369"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3554"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3730"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "school"
+                },
+                {
+                    "tag": "exam"
+                },
+                {
+                    "tag": "student"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 75,
+            "reply_count": 11,
+            "like_count": 96,
+            "quote_count": 10
+        },
+        "geo": {
+            "place_id": "4066",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -37.348751,
+                    -58.563049
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "exam"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1067",
+        "author_id": "2067",
+        "text": "Discussing technologie topics like tesla, machine, data. @tpeterson @mmurphy #tesla #machine #data",
+        "lang": "en",
+        "created_at": "2023-12-08T15:41:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "tpeterson",
+                    "id": "3886"
+                },
+                {
+                    "username": "mmurphy",
+                    "id": "3258"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "machine"
+                },
+                {
+                    "tag": "data"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 40,
+            "like_count": 320,
+            "quote_count": 19
+        },
+        "geo": {
+            "place_id": "4067",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    108.731238,
+                    0.90674
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "data"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1068",
+        "author_id": "2068",
+        "text": "Discussing technologie topics like robot, 5g, intelligence, ai, autonomous, smartphone. @hdunn @thuynh #robot #5g #intelligence #ai #autonomous #smartphone",
+        "lang": "en",
+        "created_at": "2023-12-19T09:26:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "hdunn",
+                    "id": "3374"
+                },
+                {
+                    "username": "thuynh",
+                    "id": "3166"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "intelligence"
+                },
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "autonomous"
+                },
+                {
+                    "tag": "smartphone"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 94,
+            "reply_count": 23,
+            "like_count": 434,
+            "quote_count": 8
+        },
+        "geo": {
+            "place_id": "4068",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    46.610364,
+                    -81.046492
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1069",
+        "author_id": "2069",
+        "text": "Discussing technologie topics like future, machine, tesla. @jwood @kelli06 @darlene03 @ugay #future #machine #tesla",
+        "lang": "en",
+        "created_at": "2023-12-11T06:57:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "jwood",
+                    "id": "3201"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3118"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3943"
+                },
+                {
+                    "username": "ugay",
+                    "id": "3244"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "machine"
+                },
+                {
+                    "tag": "tesla"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 60,
+            "reply_count": 5,
+            "like_count": 162,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4069",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    79.085187,
+                    -16.939499
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "tesla"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1070",
+        "author_id": "2070",
+        "text": "Discussing climat topics like pollution, global, planet, recycle. @rclark @tpeterson #pollution #global #planet #recycle",
+        "lang": "en",
+        "created_at": "2023-12-19T14:39:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rclark",
+                    "id": "3788"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3531"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "pollution"
+                },
+                {
+                    "tag": "global"
+                },
+                {
+                    "tag": "planet"
+                },
+                {
+                    "tag": "recycle"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 92,
+            "reply_count": 10,
+            "like_count": 356,
+            "quote_count": 9
+        },
+        "geo": {
+            "place_id": "4070",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -97.044901,
+                    -73.526136
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "pollution"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1071",
+        "author_id": "2071",
+        "text": "Discussing cuisine topics like recipe, kitchen, restaurant, food. @douglasgonzalez @sarah06 @ybentley @bobbysmith #recipe #kitchen #restaurant #food",
+        "lang": "en",
+        "created_at": "2023-12-28T08:25:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3183"
+                },
+                {
+                    "username": "sarah06",
+                    "id": "3025"
+                },
+                {
+                    "username": "ybentley",
+                    "id": "3139"
+                },
+                {
+                    "username": "bobbysmith",
+                    "id": "3953"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "recipe"
+                },
+                {
+                    "tag": "kitchen"
+                },
+                {
+                    "tag": "restaurant"
+                },
+                {
+                    "tag": "food"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 96,
+            "reply_count": 44,
+            "like_count": 434,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4071",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    1.998715,
+                    -40.918571
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "restaurant"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1072",
+        "author_id": "2072",
+        "text": "Discussing éducation topics like learning, homework, university, course. @bobbysmith @longamanda #learning #homework #university #course",
+        "lang": "en",
+        "created_at": "2023-12-08T18:13:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "bobbysmith",
+                    "id": "3523"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "3145"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "learning"
+                },
+                {
+                    "tag": "homework"
+                },
+                {
+                    "tag": "university"
+                },
+                {
+                    "tag": "course"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 27,
+            "reply_count": 13,
+            "like_count": 122,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4072",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    148.402204,
+                    -86.644099
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "homework"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1073",
+        "author_id": "2073",
+        "text": "Discussing voyages topics like flight, trip, vacation, tourism. @patrick76 @thuynh #flight #trip #vacation #tourism",
+        "lang": "en",
+        "created_at": "2023-12-26T18:34:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "patrick76",
+                    "id": "3475"
+                },
+                {
+                    "username": "thuynh",
+                    "id": "3936"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "flight"
+                },
+                {
+                    "tag": "trip"
+                },
+                {
+                    "tag": "vacation"
+                },
+                {
+                    "tag": "tourism"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 72,
+            "reply_count": 42,
+            "like_count": 128,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4073",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    100.730696,
+                    -37.044997
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "vacation"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1074",
+        "author_id": "2074",
+        "text": "Discussing technologie topics like 5g, programming, data, intelligence, robot, ai. @guzmanamber @jonathanking @sarahmartinez @sarah06 @lisa45 #5g #programming #data #intelligence #robot #ai",
+        "lang": "en",
+        "created_at": "2023-12-18T08:02:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "guzmanamber",
+                    "id": "3131"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3645"
+                },
+                {
+                    "username": "sarahmartinez",
+                    "id": "3314"
+                },
+                {
+                    "username": "sarah06",
+                    "id": "3405"
+                },
+                {
+                    "username": "lisa45",
+                    "id": "3022"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "programming"
+                },
+                {
+                    "tag": "data"
+                },
+                {
+                    "tag": "intelligence"
+                },
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "ai"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 91,
+            "reply_count": 11,
+            "like_count": 307,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4074",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    33.919259,
+                    -67.466168
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "ai"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1075",
+        "author_id": "2075",
+        "text": "Discussing divertissement topics like music, marvel, festival, concert, theater, movie. @gregwoods @mmurphy @darrelledwards @matthewbraun @kathleen40 #music #marvel #festival #concert #theater #movie",
+        "lang": "en",
+        "created_at": "2023-12-13T04:11:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "gregwoods",
+                    "id": "3613"
+                },
+                {
+                    "username": "mmurphy",
+                    "id": "3394"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3510"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3731"
+                },
+                {
+                    "username": "kathleen40",
+                    "id": "3074"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "music"
+                },
+                {
+                    "tag": "marvel"
+                },
+                {
+                    "tag": "festival"
+                },
+                {
+                    "tag": "concert"
+                },
+                {
+                    "tag": "theater"
+                },
+                {
+                    "tag": "movie"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 31,
+            "reply_count": 46,
+            "like_count": 319,
+            "quote_count": 19
+        },
+        "geo": {
+            "place_id": "4075",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    40.025114,
+                    -50.831205
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "movie"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1076",
+        "author_id": "2076",
+        "text": "Discussing voyages topics like cruise, destination, tourism, travel. @ugay @hdunn @brittany53 @mmurphy #cruise #destination #tourism #travel",
+        "lang": "en",
+        "created_at": "2023-12-25T22:36:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "ugay",
+                    "id": "3673"
+                },
+                {
+                    "username": "hdunn",
+                    "id": "3379"
+                },
+                {
+                    "username": "brittany53",
+                    "id": "3734"
+                },
+                {
+                    "username": "mmurphy",
+                    "id": "3989"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "cruise"
+                },
+                {
+                    "tag": "destination"
+                },
+                {
+                    "tag": "tourism"
+                },
+                {
+                    "tag": "travel"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 6,
+            "like_count": 366,
+            "quote_count": 20
+        },
+        "geo": {
+            "place_id": "4076",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -95.592934,
+                    55.164739
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "cruise"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1077",
+        "author_id": "2077",
+        "text": "Discussing divertissement topics like netflix, series, festival, boxoffice. @amoore @oliviarichard @brittany53 @rachel02 #netflix #series #festival #boxoffice",
+        "lang": "en",
+        "created_at": "2023-12-17T06:39:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "amoore",
+                    "id": "3294"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3799"
+                },
+                {
+                    "username": "brittany53",
+                    "id": "3310"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3136"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "netflix"
+                },
+                {
+                    "tag": "series"
+                },
+                {
+                    "tag": "festival"
+                },
+                {
+                    "tag": "boxoffice"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 64,
+            "reply_count": 12,
+            "like_count": 108,
+            "quote_count": 5
+        },
+        "geo": {
+            "place_id": "4077",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -120.279925,
+                    -7.567554
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "series"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1078",
+        "author_id": "2078",
+        "text": "Discussing voyages topics like passport, holiday, cruise. @sarahmartinez @yharrington @carlastevenson @watsonbianca #passport #holiday #cruise",
+        "lang": "en",
+        "created_at": "2023-12-06T09:07:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "sarahmartinez",
+                    "id": "3756"
+                },
+                {
+                    "username": "yharrington",
+                    "id": "3169"
+                },
+                {
+                    "username": "carlastevenson",
+                    "id": "3480"
+                },
+                {
+                    "username": "watsonbianca",
+                    "id": "3520"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "passport"
+                },
+                {
+                    "tag": "holiday"
+                },
+                {
+                    "tag": "cruise"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 30,
+            "reply_count": 6,
+            "like_count": 279,
+            "quote_count": 18
+        },
+        "geo": {
+            "place_id": "4078",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -120.528804,
+                    -36.957444
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "passport"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1079",
+        "author_id": "2079",
+        "text": "Discussing cuisine topics like cooking, ingredients, dish, menu. @kathleen40 @cruzzachary @jwood @jacobhoover #cooking #ingredients #dish #menu",
+        "lang": "en",
+        "created_at": "2023-12-22T11:55:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "kathleen40",
+                    "id": "3741"
+                },
+                {
+                    "username": "cruzzachary",
+                    "id": "3817"
+                },
+                {
+                    "username": "jwood",
+                    "id": "3800"
+                },
+                {
+                    "username": "jacobhoover",
+                    "id": "3310"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "cooking"
+                },
+                {
+                    "tag": "ingredients"
+                },
+                {
+                    "tag": "dish"
+                },
+                {
+                    "tag": "menu"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 50,
+            "like_count": 345,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4079",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -67.768681,
+                    0.186491
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "cooking"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1080",
+        "author_id": "2080",
+        "text": "Discussing santé topics like diet, fasting, disease, medicine, life, hospital. @amoore @williamsbianca @courtney67 @matthewbraun @ybentley #diet #fasting #disease #medicine #life #hospital",
+        "lang": "en",
+        "created_at": "2023-12-28T06:50:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "amoore",
+                    "id": "3192"
+                },
+                {
+                    "username": "williamsbianca",
+                    "id": "3866"
+                },
+                {
+                    "username": "courtney67",
+                    "id": "3223"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3278"
+                },
+                {
+                    "username": "ybentley",
+                    "id": "3941"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "diet"
+                },
+                {
+                    "tag": "fasting"
+                },
+                {
+                    "tag": "disease"
+                },
+                {
+                    "tag": "medicine"
+                },
+                {
+                    "tag": "life"
+                },
+                {
+                    "tag": "hospital"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 33,
+            "reply_count": 45,
+            "like_count": 356,
+            "quote_count": 16
+        },
+        "geo": {
+            "place_id": "4080",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -130.310109,
+                    52.913646
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "fasting"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1081",
+        "author_id": "2081",
+        "text": "Discussing divertissement topics like concert, music, tour, album, swift. @jonathanking @darrelledwards @scraig @kelli06 #concert #music #tour #album #swift",
+        "lang": "en",
+        "created_at": "2023-12-24T22:11:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "jonathanking",
+                    "id": "3924"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3414"
+                },
+                {
+                    "username": "scraig",
+                    "id": "3454"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3539"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "concert"
+                },
+                {
+                    "tag": "music"
+                },
+                {
+                    "tag": "tour"
+                },
+                {
+                    "tag": "album"
+                },
+                {
+                    "tag": "swift"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 331,
+            "quote_count": 17
+        },
+        "geo": {
+            "place_id": "4081",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    57.196156,
+                    28.963302
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "album"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1082",
+        "author_id": "2082",
+        "text": "Discussing climat topics like carbon, planet, renewable. @darlene03 @cruzzachary #carbon #planet #renewable",
+        "lang": "en",
+        "created_at": "2023-12-08T16:30:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darlene03",
+                    "id": "3517"
+                },
+                {
+                    "username": "cruzzachary",
+                    "id": "3422"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "carbon"
+                },
+                {
+                    "tag": "planet"
+                },
+                {
+                    "tag": "renewable"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 49,
+            "like_count": 342,
+            "quote_count": 13
+        },
+        "geo": {
+            "place_id": "4082",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -48.395151,
+                    -28.970261
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "planet"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1083",
+        "author_id": "2083",
+        "text": "Discussing cuisine topics like dish, ingredients, restaurant, kitchen, flavor, dinner. @scraig @amymorris @guzmanamber @mariamiller #dish #ingredients #restaurant #kitchen #flavor #dinner",
+        "lang": "en",
+        "created_at": "2023-12-30T04:50:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "scraig",
+                    "id": "3510"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3726"
+                },
+                {
+                    "username": "guzmanamber",
+                    "id": "3663"
+                },
+                {
+                    "username": "mariamiller",
+                    "id": "4000"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "dish"
+                },
+                {
+                    "tag": "ingredients"
+                },
+                {
+                    "tag": "restaurant"
+                },
+                {
+                    "tag": "kitchen"
+                },
+                {
+                    "tag": "flavor"
+                },
+                {
+                    "tag": "dinner"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 98,
+            "reply_count": 23,
+            "like_count": 98,
+            "quote_count": 7
+        },
+        "geo": {
+            "place_id": "4083",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -20.63903,
+                    40.106134
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Cuisine"
+                },
+                "entity": {
+                    "name": "restaurant"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1084",
+        "author_id": "2084",
+        "text": "Discussing santé topics like wellness, disease, diet, doctor. @douglasgonzalez @rachel02 @jonathanking @amoore @michaelconley #wellness #disease #diet #doctor",
+        "lang": "en",
+        "created_at": "2023-12-19T19:02:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3132"
+                },
+                {
+                    "username": "rachel02",
+                    "id": "3449"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3827"
+                },
+                {
+                    "username": "amoore",
+                    "id": "3812"
+                },
+                {
+                    "username": "michaelconley",
+                    "id": "3540"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "wellness"
+                },
+                {
+                    "tag": "disease"
+                },
+                {
+                    "tag": "diet"
+                },
+                {
+                    "tag": "doctor"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 5,
+            "like_count": 243,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4084",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    163.191744,
+                    89.441839
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "doctor"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1085",
+        "author_id": "2085",
+        "text": "Discussing voyages topics like passport, holiday, cruise, travel, tourism. @tpeterson @jonathanking #passport #holiday #cruise #travel #tourism",
+        "lang": "en",
+        "created_at": "2023-12-03T01:58:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "tpeterson",
+                    "id": "3428"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3612"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "passport"
+                },
+                {
+                    "tag": "holiday"
+                },
+                {
+                    "tag": "cruise"
+                },
+                {
+                    "tag": "travel"
+                },
+                {
+                    "tag": "tourism"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 61,
+            "reply_count": 47,
+            "like_count": 403,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4085",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    82.831099,
+                    -38.551117
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "holiday"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1086",
+        "author_id": "2086",
+        "text": "Discussing divertissement topics like music, swift, adele, boxoffice, theater, movie. @sarahmartinez @mooregeorge @mooregeorge #music #swift #adele #boxoffice #theater #movie",
+        "lang": "en",
+        "created_at": "2023-12-13T05:22:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "sarahmartinez",
+                    "id": "3685"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3599"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3640"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "music"
+                },
+                {
+                    "tag": "swift"
+                },
+                {
+                    "tag": "adele"
+                },
+                {
+                    "tag": "boxoffice"
+                },
+                {
+                    "tag": "theater"
+                },
+                {
+                    "tag": "movie"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 42,
+            "reply_count": 48,
+            "like_count": 499,
+            "quote_count": 2
+        },
+        "geo": {
+            "place_id": "4086",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    157.349987,
+                    -79.389375
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "theater"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1087",
+        "author_id": "2087",
+        "text": "Discussing éducation topics like scholarship, knowledge, learning, exam, university, degree. @ybentley @scraig @reynoldsbenjamin #scholarship #knowledge #learning #exam #university #degree",
+        "lang": "en",
+        "created_at": "2023-12-29T09:26:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "ybentley",
+                    "id": "3677"
+                },
+                {
+                    "username": "scraig",
+                    "id": "3795"
+                },
+                {
+                    "username": "reynoldsbenjamin",
+                    "id": "3627"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "scholarship"
+                },
+                {
+                    "tag": "knowledge"
+                },
+                {
+                    "tag": "learning"
+                },
+                {
+                    "tag": "exam"
+                },
+                {
+                    "tag": "university"
+                },
+                {
+                    "tag": "degree"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 81,
+            "reply_count": 45,
+            "like_count": 283,
+            "quote_count": 9
+        },
+        "geo": {
+            "place_id": "4087",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -57.203258,
+                    -79.375177
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "university"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1088",
+        "author_id": "2088",
+        "text": "Discussing santé topics like hospital, medicine, mental, exercise, wellness, doctor. @sarah06 @douglasgonzalez @michaelconley @rclark #hospital #medicine #mental #exercise #wellness #doctor",
+        "lang": "en",
+        "created_at": "2023-12-15T15:57:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "sarah06",
+                    "id": "3783"
+                },
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3492"
+                },
+                {
+                    "username": "michaelconley",
+                    "id": "3354"
+                },
+                {
+                    "username": "rclark",
+                    "id": "3870"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "hospital"
+                },
+                {
+                    "tag": "medicine"
+                },
+                {
+                    "tag": "mental"
+                },
+                {
+                    "tag": "exercise"
+                },
+                {
+                    "tag": "wellness"
+                },
+                {
+                    "tag": "doctor"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 39,
+            "like_count": 148,
+            "quote_count": 20
+        },
+        "geo": {
+            "place_id": "4088",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    150.814762,
+                    61.862746
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "mental"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1089",
+        "author_id": "2089",
+        "text": "Discussing climat topics like planet, warming, renewable. @rachel02 @matthewbraun @darlene03 @darrelledwards @williamsbianca #planet #warming #renewable",
+        "lang": "en",
+        "created_at": "2023-12-26T02:16:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "rachel02",
+                    "id": "3989"
+                },
+                {
+                    "username": "matthewbraun",
+                    "id": "3531"
+                },
+                {
+                    "username": "darlene03",
+                    "id": "3052"
+                },
+                {
+                    "username": "darrelledwards",
+                    "id": "3745"
+                },
+                {
+                    "username": "williamsbianca",
+                    "id": "3642"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "planet"
+                },
+                {
+                    "tag": "warming"
+                },
+                {
+                    "tag": "renewable"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 40,
+            "reply_count": 44,
+            "like_count": 469,
+            "quote_count": 8
+        },
+        "geo": {
+            "place_id": "4089",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    177.717541,
+                    50.695514
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "renewable"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1090",
+        "author_id": "2090",
+        "text": "Discussing technologie topics like algorithm, ai, future, 5g, vehicle, intelligence. @lisa45 @amymorris #algorithm #ai #future #5g #vehicle #intelligence",
+        "lang": "en",
+        "created_at": "2023-12-30T18:04:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "lisa45",
+                    "id": "3790"
+                },
+                {
+                    "username": "amymorris",
+                    "id": "3064"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "algorithm"
+                },
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "vehicle"
+                },
+                {
+                    "tag": "intelligence"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 60,
+            "reply_count": 17,
+            "like_count": 30,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4090",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    168.007673,
+                    -16.306903
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "intelligence"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1091",
+        "author_id": "2091",
+        "text": "Discussing politique topics like senate, minister, campaign, policy, vote, election. @brittany53 @watsonbianca @bobbysmith #senate #minister #campaign #policy #vote #election",
+        "lang": "en",
+        "created_at": "2023-12-02T12:44:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "brittany53",
+                    "id": "3551"
+                },
+                {
+                    "username": "watsonbianca",
+                    "id": "3721"
+                },
+                {
+                    "username": "bobbysmith",
+                    "id": "3701"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "senate"
+                },
+                {
+                    "tag": "minister"
+                },
+                {
+                    "tag": "campaign"
+                },
+                {
+                    "tag": "policy"
+                },
+                {
+                    "tag": "vote"
+                },
+                {
+                    "tag": "election"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 68,
+            "reply_count": 4,
+            "like_count": 463,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4091",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -44.419649,
+                    -13.635441
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "election"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1092",
+        "author_id": "2092",
+        "text": "Discussing technologie topics like 5g, robot, tesla, intelligence, ai, vehicle. @darlene03 @kelli06 @sarah06 #5g #robot #tesla #intelligence #ai #vehicle",
+        "lang": "en",
+        "created_at": "2023-12-03T01:49:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darlene03",
+                    "id": "3258"
+                },
+                {
+                    "username": "kelli06",
+                    "id": "3897"
+                },
+                {
+                    "username": "sarah06",
+                    "id": "3813"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "5g"
+                },
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "tesla"
+                },
+                {
+                    "tag": "intelligence"
+                },
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "vehicle"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 59,
+            "reply_count": 0,
+            "like_count": 364,
+            "quote_count": 17
+        },
+        "geo": {
+            "place_id": "4092",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    23.163829,
+                    -58.185962
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "ai"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1093",
+        "author_id": "2093",
+        "text": "Discussing éducation topics like scholarship, learning, school. @tpeterson @jonathanking #scholarship #learning #school",
+        "lang": "en",
+        "created_at": "2023-12-04T03:09:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "tpeterson",
+                    "id": "3701"
+                },
+                {
+                    "username": "jonathanking",
+                    "id": "3702"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "scholarship"
+                },
+                {
+                    "tag": "learning"
+                },
+                {
+                    "tag": "school"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 79,
+            "reply_count": 33,
+            "like_count": 389,
+            "quote_count": 2
+        },
+        "geo": {
+            "place_id": "4093",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    154.593785,
+                    61.911863
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Éducation"
+                },
+                "entity": {
+                    "name": "school"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1094",
+        "author_id": "2094",
+        "text": "Discussing divertissement topics like oscars, movie, boxoffice, theater, album, music. @gregwoods @rclark @douglasgonzalez #oscars #movie #boxoffice #theater #album #music",
+        "lang": "en",
+        "created_at": "2023-12-24T17:53:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "gregwoods",
+                    "id": "3145"
+                },
+                {
+                    "username": "rclark",
+                    "id": "3332"
+                },
+                {
+                    "username": "douglasgonzalez",
+                    "id": "3821"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "oscars"
+                },
+                {
+                    "tag": "movie"
+                },
+                {
+                    "tag": "boxoffice"
+                },
+                {
+                    "tag": "theater"
+                },
+                {
+                    "tag": "album"
+                },
+                {
+                    "tag": "music"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 67,
+            "reply_count": 4,
+            "like_count": 80,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4094",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -49.150309,
+                    -49.74366
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Divertissement"
+                },
+                "entity": {
+                    "name": "theater"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1095",
+        "author_id": "2095",
+        "text": "Discussing climat topics like environment, recycle, warming, global, sustainability. @watsonbianca @kathleen40 @ybentley @yharrington @mooregeorge #environment #recycle #warming #global #sustainability",
+        "lang": "en",
+        "created_at": "2023-12-24T17:02:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "watsonbianca",
+                    "id": "3997"
+                },
+                {
+                    "username": "kathleen40",
+                    "id": "3256"
+                },
+                {
+                    "username": "ybentley",
+                    "id": "3977"
+                },
+                {
+                    "username": "yharrington",
+                    "id": "3482"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3085"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "environment"
+                },
+                {
+                    "tag": "recycle"
+                },
+                {
+                    "tag": "warming"
+                },
+                {
+                    "tag": "global"
+                },
+                {
+                    "tag": "sustainability"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 75,
+            "reply_count": 20,
+            "like_count": 403,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4095",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    176.290605,
+                    21.354166
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Climat"
+                },
+                "entity": {
+                    "name": "sustainability"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1096",
+        "author_id": "2096",
+        "text": "Discussing santé topics like doctor, medicine, fasting, health. @ybentley @rrice @tpeterson @rrice #doctor #medicine #fasting #health",
+        "lang": "en",
+        "created_at": "2023-12-16T10:39:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "ybentley",
+                    "id": "3325"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3000"
+                },
+                {
+                    "username": "tpeterson",
+                    "id": "3546"
+                },
+                {
+                    "username": "rrice",
+                    "id": "3908"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "doctor"
+                },
+                {
+                    "tag": "medicine"
+                },
+                {
+                    "tag": "fasting"
+                },
+                {
+                    "tag": "health"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 46,
+            "reply_count": 48,
+            "like_count": 379,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4096",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    120.595122,
+                    28.109284
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Santé"
+                },
+                "entity": {
+                    "name": "medicine"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1097",
+        "author_id": "2097",
+        "text": "Discussing voyages topics like passport, trip, tourism, beach. @darlene03 @longamanda @terrencewolf #passport #trip #tourism #beach",
+        "lang": "en",
+        "created_at": "2023-12-16T03:42:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "darlene03",
+                    "id": "3395"
+                },
+                {
+                    "username": "longamanda",
+                    "id": "3019"
+                },
+                {
+                    "username": "terrencewolf",
+                    "id": "3554"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "passport"
+                },
+                {
+                    "tag": "trip"
+                },
+                {
+                    "tag": "tourism"
+                },
+                {
+                    "tag": "beach"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 16,
+            "like_count": 138,
+            "quote_count": 18
+        },
+        "geo": {
+            "place_id": "4097",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    99.081567,
+                    -46.531411
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Voyages"
+                },
+                "entity": {
+                    "name": "trip"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1098",
+        "author_id": "2098",
+        "text": "Discussing technologie topics like ai, future, intelligence, robot, vehicle. @watsonbianca @thuynh #ai #future #intelligence #robot #vehicle",
+        "lang": "en",
+        "created_at": "2023-12-25T00:42:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "watsonbianca",
+                    "id": "3722"
+                },
+                {
+                    "username": "thuynh",
+                    "id": "3950"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "ai"
+                },
+                {
+                    "tag": "future"
+                },
+                {
+                    "tag": "intelligence"
+                },
+                {
+                    "tag": "robot"
+                },
+                {
+                    "tag": "vehicle"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 15,
+            "like_count": 355,
+            "quote_count": 14
+        },
+        "geo": {
+            "place_id": "4098",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    93.537749,
+                    72.189447
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Technologie"
+                },
+                "entity": {
+                    "name": "vehicle"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1099",
+        "author_id": "2099",
+        "text": "Discussing politique topics like vote, minister, campaign, senate, election. @patrick76 @oliviarichard @mooregeorge @williamsbianca #vote #minister #campaign #senate #election",
+        "lang": "en",
+        "created_at": "2023-12-24T20:21:00Z",
+        "entities": {
+            "mentions": [
+                {
+                    "username": "patrick76",
+                    "id": "3319"
+                },
+                {
+                    "username": "oliviarichard",
+                    "id": "3923"
+                },
+                {
+                    "username": "mooregeorge",
+                    "id": "3357"
+                },
+                {
+                    "username": "williamsbianca",
+                    "id": "3577"
+                }
+            ],
+            "hashtags": [
+                {
+                    "tag": "vote"
+                },
+                {
+                    "tag": "minister"
+                },
+                {
+                    "tag": "campaign"
+                },
+                {
+                    "tag": "senate"
+                },
+                {
+                    "tag": "election"
+                }
+            ]
+        },
+        "public_metrics": {
+            "retweet_count": 43,
+            "reply_count": 3,
+            "like_count": 369,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "4099",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    73.620476,
+                    19.749693
+                ]
+            }
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "name": "Politique"
+                },
+                "entity": {
+                    "name": "minister"
+                }
+            }
+        ]
+    }
+]
