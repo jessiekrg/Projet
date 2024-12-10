@@ -1,224 +1,1910 @@
 [
     {
-        "id": "1421616335700824064",
-        "auteur": "1339914264522461187",
-        "tweet": "Goumin des lphants joueurs la mme fatigue mme  #twitter225",
-        "texte": "Goumin des lphants joueurs la mme fatigue mme  #twitter225",
+        "id": "1000",
+        "auteur": "2000",
+        "tweet": "Discussing ducation topics like learning student teacher homework exam scholarship @michaelconley @btyler @mariamiller #learning #student #teacher #homework #exam #scholarship",
+        "texte": "Discussing ducation topics like learning student teacher homework exam scholarship @michaelconley @btyler @mariamiller #learning #student #teacher #homework #exam #scholarship",
         "hashtags": [
-            "#twitter225"
-        ],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421599703116943360",
-        "auteur": "1339914264522461187",
-        "tweet": "@ericbailly24 @maxigr04del  mes tontons vous avez fait votre part  JO prochain on ira en demi final au moins BRAVO  vous  #SupportriceMazo #domie #CIV",
-        "texte": "@ericbailly24 @maxigr04del  mes tontons vous avez fait votre part  JO prochain on ira en demi final au moins BRAVO  vous  #SupportriceMazo #domie #CIV",
-        "hashtags": [
-            "#SupportriceMazo",
-            "#domie",
-            "#CIV"
+            "#learning",
+            "#student",
+            "#teacher",
+            "#homework",
+            "#exam",
+            "#scholarship"
         ],
         "mentions": [
-            "@ericbailly24",
-            "@maxigr04del"
+            "@michaelconley",
+            "@btyler",
+            "@mariamiller"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421599163561742339",
-        "auteur": "1339914264522461187",
-        "tweet": "Ah oui le sommeil l sera compliqu #CIV  est limin des JO  Ahi on peut faire a ",
-        "texte": "Ah oui le sommeil l sera compliqu #CIV  est limin des JO  Ahi on peut faire a ",
+        "id": "1001",
+        "auteur": "2001",
+        "tweet": "Discussing divertissement topics like music oscars marvel netflix @mmurphy @patrick76 @perezsteven @gregwoods @mooregeorge #music #oscars #marvel #netflix",
+        "texte": "Discussing divertissement topics like music oscars marvel netflix @mmurphy @patrick76 @perezsteven @gregwoods @mooregeorge #music #oscars #marvel #netflix",
         "hashtags": [
-            "#CIV"
+            "#music",
+            "#oscars",
+            "#marvel",
+            "#netflix"
         ],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421591889095057416",
-        "auteur": "1339914264522461187",
-        "tweet": "31 juillet  journe internationale de la femme africaine #jifa",
-        "texte": "31 juillet  journe internationale de la femme africaine #jifa",
-        "hashtags": [
-            "#jifa"
-        ],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421582795294617605",
-        "auteur": "717025418",
-        "tweet": "Le pedigree  httpstcoD3Rv7A2BOF",
-        "texte": "Le pedigree  httpstcoD3Rv7A2BOF",
-        "hashtags": [],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421581383454052359",
-        "auteur": "992904738516717570",
-        "tweet": "@isabelle170516 @leonnajulie @Steiner2502 Vous avez tt  fait raison le silence incomprhensible du gouvernoument et des merdias sur ce trs important et dramatique sujet prouve de manire irrfutable\n leur implication  ce plan  diabolique maquill",
-        "texte": "@isabelle170516 @leonnajulie @Steiner2502 Vous avez tt  fait raison le silence incomprhensible du gouvernoument et des merdias sur ce trs important et dramatique sujet prouve de manire irrfutable\n leur implication  ce plan  diabolique maquill",
-        "hashtags": [],
         "mentions": [
-            "@isabelle170516",
-            "@leonnajulie",
-            "@Steiner2502"
+            "@mmurphy",
+            "@patrick76",
+            "@perezsteven",
+            "@gregwoods",
+            "@mooregeorge"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1002",
+        "auteur": "2002",
+        "tweet": "Discussing sports topics like athletes match goal score qualifiers basketball @ybentley @douglasgonzalez @williamsbianca @amymorris @longamanda #athletes #match #goal #score #qualifiers #basketball",
+        "texte": "Discussing sports topics like athletes match goal score qualifiers basketball @ybentley @douglasgonzalez @williamsbianca @amymorris @longamanda #athletes #match #goal #score #qualifiers #basketball",
+        "hashtags": [
+            "#athletes",
+            "#match",
+            "#goal",
+            "#score",
+            "#qualifiers",
+            "#basketball"
+        ],
+        "mentions": [
+            "@ybentley",
+            "@douglasgonzalez",
+            "@williamsbianca",
+            "@amymorris",
+            "@longamanda"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1003",
+        "auteur": "2003",
+        "tweet": "Discussing voyages topics like tourism hotel flight travel beach destination @kelli06 @oliviarichard @rrice #tourism #hotel #flight #travel #beach #destination",
+        "texte": "Discussing voyages topics like tourism hotel flight travel beach destination @kelli06 @oliviarichard @rrice #tourism #hotel #flight #travel #beach #destination",
+        "hashtags": [
+            "#tourism",
+            "#hotel",
+            "#flight",
+            "#travel",
+            "#beach",
+            "#destination"
+        ],
+        "mentions": [
+            "@kelli06",
+            "@oliviarichard",
+            "@rrice"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1004",
+        "auteur": "2004",
+        "tweet": "Discussing voyages topics like holiday travel trip @kevinramirez @jasondavis @amymorris #holiday #travel #trip",
+        "texte": "Discussing voyages topics like holiday travel trip @kevinramirez @jasondavis @amymorris #holiday #travel #trip",
+        "hashtags": [
+            "#holiday",
+            "#travel",
+            "#trip"
+        ],
+        "mentions": [
+            "@kevinramirez",
+            "@jasondavis",
+            "@amymorris"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1005",
+        "auteur": "2005",
+        "tweet": "Discussing cuisine topics like food baking restaurant chef @courtney67 @jacobhoover @perezsteven #food #baking #restaurant #chef",
+        "texte": "Discussing cuisine topics like food baking restaurant chef @courtney67 @jacobhoover @perezsteven #food #baking #restaurant #chef",
+        "hashtags": [
+            "#food",
+            "#baking",
+            "#restaurant",
+            "#chef"
+        ],
+        "mentions": [
+            "@courtney67",
+            "@jacobhoover",
+            "@perezsteven"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1006",
+        "auteur": "2006",
+        "tweet": "Discussing politique topics like election senate government campaign @vvalenzuela @vvalenzuela @cruzzachary @courtney67 @darrelledwards #election #senate #government #campaign",
+        "texte": "Discussing politique topics like election senate government campaign @vvalenzuela @vvalenzuela @cruzzachary @courtney67 @darrelledwards #election #senate #government #campaign",
+        "hashtags": [
+            "#election",
+            "#senate",
+            "#government",
+            "#campaign"
+        ],
+        "mentions": [
+            "@vvalenzuela",
+            "@vvalenzuela",
+            "@cruzzachary",
+            "@courtney67",
+            "@darrelledwards"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1007",
+        "auteur": "2007",
+        "tweet": "Discussing cuisine topics like dish recipe cooking baking meal @brittany53 @rrice @watsonbianca @rachel02 #dish #recipe #cooking #baking #meal",
+        "texte": "Discussing cuisine topics like dish recipe cooking baking meal @brittany53 @rrice @watsonbianca @rachel02 #dish #recipe #cooking #baking #meal",
+        "hashtags": [
+            "#dish",
+            "#recipe",
+            "#cooking",
+            "#baking",
+            "#meal"
+        ],
+        "mentions": [
+            "@brittany53",
+            "@rrice",
+            "@watsonbianca",
+            "@rachel02"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1008",
+        "auteur": "2008",
+        "tweet": "Discussing cuisine topics like dinner meal dish baking restaurant @longamanda @jwood @amymorris @carlastevenson @lisa45 #dinner #meal #dish #baking #restaurant",
+        "texte": "Discussing cuisine topics like dinner meal dish baking restaurant @longamanda @jwood @amymorris @carlastevenson @lisa45 #dinner #meal #dish #baking #restaurant",
+        "hashtags": [
+            "#dinner",
+            "#meal",
+            "#dish",
+            "#baking",
+            "#restaurant"
+        ],
+        "mentions": [
+            "@longamanda",
+            "@jwood",
+            "@amymorris",
+            "@carlastevenson",
+            "@lisa45"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1009",
+        "auteur": "2009",
+        "tweet": "Discussing technologie topics like artificial algorithm vehicle @oliviarichard @kelli06 @staffordhenry #artificial #algorithm #vehicle",
+        "texte": "Discussing technologie topics like artificial algorithm vehicle @oliviarichard @kelli06 @staffordhenry #artificial #algorithm #vehicle",
+        "hashtags": [
+            "#artificial",
+            "#algorithm",
+            "#vehicle"
+        ],
+        "mentions": [
+            "@oliviarichard",
+            "@kelli06",
+            "@staffordhenry"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1010",
+        "auteur": "2010",
+        "tweet": "Discussing technologie topics like ai algorithm 5g future @bmartinez @staffordhenry @staffordhenry @staffordhenry #ai #algorithm #5g #future",
+        "texte": "Discussing technologie topics like ai algorithm 5g future @bmartinez @staffordhenry @staffordhenry @staffordhenry #ai #algorithm #5g #future",
+        "hashtags": [
+            "#ai",
+            "#algorithm",
+            "#5g",
+            "#future"
+        ],
+        "mentions": [
+            "@bmartinez",
+            "@staffordhenry",
+            "@staffordhenry",
+            "@staffordhenry"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1011",
+        "auteur": "2011",
+        "tweet": "Discussing politique topics like policy president parliament law senate vote @gregwoods @jasondavis @michaelconley @gregwoods @mmurphy #policy #president #parliament #law #senate #vote",
+        "texte": "Discussing politique topics like policy president parliament law senate vote @gregwoods @jasondavis @michaelconley @gregwoods @mmurphy #policy #president #parliament #law #senate #vote",
+        "hashtags": [
+            "#policy",
+            "#president",
+            "#parliament",
+            "#law",
+            "#senate",
+            "#vote"
+        ],
+        "mentions": [
+            "@gregwoods",
+            "@jasondavis",
+            "@michaelconley",
+            "@gregwoods",
+            "@mmurphy"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1012",
+        "auteur": "2012",
+        "tweet": "Discussing cuisine topics like recipe dinner menu flavor dish @rclark @carlastevenson @sarahmartinez @longamanda #recipe #dinner #menu #flavor #dish",
+        "texte": "Discussing cuisine topics like recipe dinner menu flavor dish @rclark @carlastevenson @sarahmartinez @longamanda #recipe #dinner #menu #flavor #dish",
+        "hashtags": [
+            "#recipe",
+            "#dinner",
+            "#menu",
+            "#flavor",
+            "#dish"
+        ],
+        "mentions": [
+            "@rclark",
+            "@carlastevenson",
+            "@sarahmartinez",
+            "@longamanda"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1013",
+        "auteur": "2013",
+        "tweet": "Discussing technologie topics like vehicle smartphone ai tesla artificial @vvalenzuela @darrelledwards #vehicle #smartphone #ai #tesla #artificial",
+        "texte": "Discussing technologie topics like vehicle smartphone ai tesla artificial @vvalenzuela @darrelledwards #vehicle #smartphone #ai #tesla #artificial",
+        "hashtags": [
+            "#vehicle",
+            "#smartphone",
+            "#ai",
+            "#tesla",
+            "#artificial"
+        ],
+        "mentions": [
+            "@vvalenzuela",
+            "@darrelledwards"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1014",
+        "auteur": "2014",
+        "tweet": "Discussing ducation topics like student education teacher degree @matthewbraun @tpeterson #student #education #teacher #degree",
+        "texte": "Discussing ducation topics like student education teacher degree @matthewbraun @tpeterson #student #education #teacher #degree",
+        "hashtags": [
+            "#student",
+            "#education",
+            "#teacher",
+            "#degree"
+        ],
+        "mentions": [
+            "@matthewbraun",
+            "@tpeterson"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1015",
+        "auteur": "2015",
+        "tweet": "Discussing technologie topics like artificial tesla machine robot future ai @jonathanking @terrencewolf @kevinramirez #artificial #tesla #machine #robot #future #ai",
+        "texte": "Discussing technologie topics like artificial tesla machine robot future ai @jonathanking @terrencewolf @kevinramirez #artificial #tesla #machine #robot #future #ai",
+        "hashtags": [
+            "#artificial",
+            "#tesla",
+            "#machine",
+            "#robot",
+            "#future",
+            "#ai"
+        ],
+        "mentions": [
+            "@jonathanking",
+            "@terrencewolf",
+            "@kevinramirez"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1016",
+        "auteur": "2016",
+        "tweet": "Discussing technologie topics like data 5g machine @mmurphy @kathleen40 #data #5g #machine",
+        "texte": "Discussing technologie topics like data 5g machine @mmurphy @kathleen40 #data #5g #machine",
+        "hashtags": [
+            "#data",
+            "#5g",
+            "#machine"
+        ],
+        "mentions": [
+            "@mmurphy",
+            "@kathleen40"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1017",
+        "auteur": "2017",
+        "tweet": "Discussing politique topics like law vote government president minister @vvalenzuela @rrice @carlastevenson @btyler #law #vote #government #president #minister",
+        "texte": "Discussing politique topics like law vote government president minister @vvalenzuela @rrice @carlastevenson @btyler #law #vote #government #president #minister",
+        "hashtags": [
+            "#law",
+            "#vote",
+            "#government",
+            "#president",
+            "#minister"
+        ],
+        "mentions": [
+            "@vvalenzuela",
+            "@rrice",
+            "@carlastevenson",
+            "@btyler"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1018",
+        "auteur": "2018",
+        "tweet": "Discussing cuisine topics like cooking dinner dish chef @guzmanamber @qhawkins @vvalenzuela @matthewbraun #cooking #dinner #dish #chef",
+        "texte": "Discussing cuisine topics like cooking dinner dish chef @guzmanamber @qhawkins @vvalenzuela @matthewbraun #cooking #dinner #dish #chef",
+        "hashtags": [
+            "#cooking",
+            "#dinner",
+            "#dish",
+            "#chef"
+        ],
+        "mentions": [
+            "@guzmanamber",
+            "@qhawkins",
+            "@vvalenzuela",
+            "@matthewbraun"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1019",
+        "auteur": "2019",
+        "tweet": "Discussing technologie topics like intelligence vehicle tesla smartphone 5g robot @ugay @rclark @kelli06 @rachel02 @oliviarichard #intelligence #vehicle #tesla #smartphone #5g #robot",
+        "texte": "Discussing technologie topics like intelligence vehicle tesla smartphone 5g robot @ugay @rclark @kelli06 @rachel02 @oliviarichard #intelligence #vehicle #tesla #smartphone #5g #robot",
+        "hashtags": [
+            "#intelligence",
+            "#vehicle",
+            "#tesla",
+            "#smartphone",
+            "#5g",
+            "#robot"
+        ],
+        "mentions": [
+            "@ugay",
+            "@rclark",
+            "@kelli06",
+            "@rachel02",
+            "@oliviarichard"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1020",
+        "auteur": "2020",
+        "tweet": "Discussing technologie topics like vehicle artificial robot future smartphone @staffordhenry @lisa45 #vehicle #artificial #robot #future #smartphone",
+        "texte": "Discussing technologie topics like vehicle artificial robot future smartphone @staffordhenry @lisa45 #vehicle #artificial #robot #future #smartphone",
+        "hashtags": [
+            "#vehicle",
+            "#artificial",
+            "#robot",
+            "#future",
+            "#smartphone"
+        ],
+        "mentions": [
+            "@staffordhenry",
+            "@lisa45"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1021",
+        "auteur": "2021",
+        "tweet": "Discussing sant topics like mental life awareness fasting @gregwoods @douglasgonzalez @reynoldsbenjamin #mental #life #awareness #fasting",
+        "texte": "Discussing sant topics like mental life awareness fasting @gregwoods @douglasgonzalez @reynoldsbenjamin #mental #life #awareness #fasting",
+        "hashtags": [
+            "#mental",
+            "#life",
+            "#awareness",
+            "#fasting"
+        ],
+        "mentions": [
+            "@gregwoods",
+            "@douglasgonzalez",
+            "@reynoldsbenjamin"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1022",
+        "auteur": "2022",
+        "tweet": "Discussing technologie topics like future programming smartphone autonomous intelligence @jacobhoover @jacobhoover @staffordhenry @tpeterson @scraig #future #programming #smartphone #autonomous #intelligence",
+        "texte": "Discussing technologie topics like future programming smartphone autonomous intelligence @jacobhoover @jacobhoover @staffordhenry @tpeterson @scraig #future #programming #smartphone #autonomous #intelligence",
+        "hashtags": [
+            "#future",
+            "#programming",
+            "#smartphone",
+            "#autonomous",
+            "#intelligence"
+        ],
+        "mentions": [
+            "@jacobhoover",
+            "@jacobhoover",
+            "@staffordhenry",
+            "@tpeterson",
+            "@scraig"
         ],
         "sentiment": "positif"
     },
     {
-        "id": "1421575939700445184",
-        "auteur": "992904738516717570",
-        "tweet": "@LynLyna12 @leonnajulie La grande muette continue et continuera de le rester  part quelques irrductibles  la retraite",
-        "texte": "@LynLyna12 @leonnajulie La grande muette continue et continuera de le rester  part quelques irrductibles  la retraite",
-        "hashtags": [],
-        "mentions": [
-            "@LynLyna12",
-            "@leonnajulie"
-        ],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421569996858269697",
-        "auteur": "736523371",
-        "tweet": "Under wsh ",
-        "texte": "Under wsh ",
-        "hashtags": [],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421563798503272448",
-        "auteur": "1471684208",
-        "tweet": "Les bains dapollon #versailles #nocturne #appollon  Chteau de Versailles httpstcoSFGXP06r61",
-        "texte": "Les bains dapollon #versailles #nocturne #appollon  Chteau de Versailles httpstcoSFGXP06r61",
+        "id": "1023",
+        "auteur": "2023",
+        "tweet": "Discussing divertissement topics like festival music series marvel album @kevinramirez @carlastevenson @terrencewolf @longamanda #festival #music #series #marvel #album",
+        "texte": "Discussing divertissement topics like festival music series marvel album @kevinramirez @carlastevenson @terrencewolf @longamanda #festival #music #series #marvel #album",
         "hashtags": [
-            "#versailles",
-            "#nocturne",
-            "#appollon"
+            "#festival",
+            "#music",
+            "#series",
+            "#marvel",
+            "#album"
         ],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421562928176803848",
-        "auteur": "992904738516717570",
-        "tweet": "@leonnajulie Le rdv aujourdhui aura  tenu ses promesses\n Pour les problmes de sommeil  1 cachet  la mlatonine 180 mg et je dors comme un bb  Rveil en pleine forme assur Et sans acoutumances pas comme avec ces bquilles chimiques\nBonne soire Julie httpstcoF6zvVfWwAf",
-        "texte": "@leonnajulie Le rdv aujourdhui aura  tenu ses promesses\n Pour les problmes de sommeil  1 cachet  la mlatonine 180 mg et je dors comme un bb  Rveil en pleine forme assur Et sans acoutumances pas comme avec ces bquilles chimiques\nBonne soire Julie httpstcoF6zvVfWwAf",
-        "hashtags": [],
         "mentions": [
-            "@leonnajulie"
+            "@kevinramirez",
+            "@carlastevenson",
+            "@terrencewolf",
+            "@longamanda"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421560592775761923",
-        "auteur": "3169236915",
-        "tweet": "@miliemelo82 @kilianbridoux @LeMeneec il est temps de laisser mijoter",
-        "texte": "@miliemelo82 @kilianbridoux @LeMeneec il est temps de laisser mijoter",
-        "hashtags": [],
+        "id": "1024",
+        "auteur": "2024",
+        "tweet": "Discussing voyages topics like passport trip travel destination cruise @patrick76 @btyler @terrencewolf @matthewbraun @amymorris #passport #trip #travel #destination #cruise",
+        "texte": "Discussing voyages topics like passport trip travel destination cruise @patrick76 @btyler @terrencewolf @matthewbraun @amymorris #passport #trip #travel #destination #cruise",
+        "hashtags": [
+            "#passport",
+            "#trip",
+            "#travel",
+            "#destination",
+            "#cruise"
+        ],
         "mentions": [
-            "@miliemelo82",
-            "@kilianbridoux",
-            "@LeMeneec"
+            "@patrick76",
+            "@btyler",
+            "@terrencewolf",
+            "@matthewbraun",
+            "@amymorris"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421558089761935365",
-        "auteur": "992904738516717570",
-        "tweet": "@Polo82810715 @lrestistant73 Un mouton cest  bien plus intelligent que toi ",
-        "texte": "@Polo82810715 @lrestistant73 Un mouton cest  bien plus intelligent que toi ",
-        "hashtags": [],
+        "id": "1025",
+        "auteur": "2025",
+        "tweet": "Discussing ducation topics like teacher course knowledge scholarship @rachel02 @darlene03 @jasondavis @rclark @darrelledwards #teacher #course #knowledge #scholarship",
+        "texte": "Discussing ducation topics like teacher course knowledge scholarship @rachel02 @darlene03 @jasondavis @rclark @darrelledwards #teacher #course #knowledge #scholarship",
+        "hashtags": [
+            "#teacher",
+            "#course",
+            "#knowledge",
+            "#scholarship"
+        ],
         "mentions": [
-            "@Polo82810715",
-            "@lrestistant73"
+            "@rachel02",
+            "@darlene03",
+            "@jasondavis",
+            "@rclark",
+            "@darrelledwards"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1026",
+        "auteur": "2026",
+        "tweet": "Discussing politique topics like minister government debate @brittany53 @ugay #minister #government #debate",
+        "texte": "Discussing politique topics like minister government debate @brittany53 @ugay #minister #government #debate",
+        "hashtags": [
+            "#minister",
+            "#government",
+            "#debate"
+        ],
+        "mentions": [
+            "@brittany53",
+            "@ugay"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1027",
+        "auteur": "2027",
+        "tweet": "Discussing technologie topics like robot data tesla future @jwood @williamsbianca #robot #data #tesla #future",
+        "texte": "Discussing technologie topics like robot data tesla future @jwood @williamsbianca #robot #data #tesla #future",
+        "hashtags": [
+            "#robot",
+            "#data",
+            "#tesla",
+            "#future"
+        ],
+        "mentions": [
+            "@jwood",
+            "@williamsbianca"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1028",
+        "auteur": "2028",
+        "tweet": "Discussing politique topics like vote senate government @amoore @sarahmartinez #vote #senate #government",
+        "texte": "Discussing politique topics like vote senate government @amoore @sarahmartinez #vote #senate #government",
+        "hashtags": [
+            "#vote",
+            "#senate",
+            "#government"
+        ],
+        "mentions": [
+            "@amoore",
+            "@sarahmartinez"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1029",
+        "auteur": "2029",
+        "tweet": "Discussing sant topics like nutrition doctor exercise fasting wellness @kevinramirez @bobbysmith @carlastevenson @jonathanking @vvalenzuela #nutrition #doctor #exercise #fasting #wellness",
+        "texte": "Discussing sant topics like nutrition doctor exercise fasting wellness @kevinramirez @bobbysmith @carlastevenson @jonathanking @vvalenzuela #nutrition #doctor #exercise #fasting #wellness",
+        "hashtags": [
+            "#nutrition",
+            "#doctor",
+            "#exercise",
+            "#fasting",
+            "#wellness"
+        ],
+        "mentions": [
+            "@kevinramirez",
+            "@bobbysmith",
+            "@carlastevenson",
+            "@jonathanking",
+            "@vvalenzuela"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1030",
+        "auteur": "2030",
+        "tweet": "Discussing ducation topics like student teacher class homework @patrick76 @jwood @perezsteven @guzmanamber #student #teacher #class #homework",
+        "texte": "Discussing ducation topics like student teacher class homework @patrick76 @jwood @perezsteven @guzmanamber #student #teacher #class #homework",
+        "hashtags": [
+            "#student",
+            "#teacher",
+            "#class",
+            "#homework"
+        ],
+        "mentions": [
+            "@patrick76",
+            "@jwood",
+            "@perezsteven",
+            "@guzmanamber"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1031",
+        "auteur": "2031",
+        "tweet": "Discussing technologie topics like ai future machine @gregwoods @terrencewolf @staffordhenry #ai #future #machine",
+        "texte": "Discussing technologie topics like ai future machine @gregwoods @terrencewolf @staffordhenry #ai #future #machine",
+        "hashtags": [
+            "#ai",
+            "#future",
+            "#machine"
+        ],
+        "mentions": [
+            "@gregwoods",
+            "@terrencewolf",
+            "@staffordhenry"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1032",
+        "auteur": "2032",
+        "tweet": "Discussing ducation topics like learning university course exam @carlastevenson @darrelledwards @yharrington @mooregeorge @matthewbraun #learning #university #course #exam",
+        "texte": "Discussing ducation topics like learning university course exam @carlastevenson @darrelledwards @yharrington @mooregeorge @matthewbraun #learning #university #course #exam",
+        "hashtags": [
+            "#learning",
+            "#university",
+            "#course",
+            "#exam"
+        ],
+        "mentions": [
+            "@carlastevenson",
+            "@darrelledwards",
+            "@yharrington",
+            "@mooregeorge",
+            "@matthewbraun"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1033",
+        "auteur": "2033",
+        "tweet": "Discussing ducation topics like university degree learning class teacher @btyler @mariamiller @mmurphy @kathleen40 @douglasgonzalez #university #degree #learning #class #teacher",
+        "texte": "Discussing ducation topics like university degree learning class teacher @btyler @mariamiller @mmurphy @kathleen40 @douglasgonzalez #university #degree #learning #class #teacher",
+        "hashtags": [
+            "#university",
+            "#degree",
+            "#learning",
+            "#class",
+            "#teacher"
+        ],
+        "mentions": [
+            "@btyler",
+            "@mariamiller",
+            "@mmurphy",
+            "@kathleen40",
+            "@douglasgonzalez"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1034",
+        "auteur": "2034",
+        "tweet": "Discussing conomie topics like economy finance growth money @staffordhenry @mariamiller @perezsteven @amoore @mooregeorge #economy #finance #growth #money",
+        "texte": "Discussing conomie topics like economy finance growth money @staffordhenry @mariamiller @perezsteven @amoore @mooregeorge #economy #finance #growth #money",
+        "hashtags": [
+            "#economy",
+            "#finance",
+            "#growth",
+            "#money"
+        ],
+        "mentions": [
+            "@staffordhenry",
+            "@mariamiller",
+            "@perezsteven",
+            "@amoore",
+            "@mooregeorge"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1035",
+        "auteur": "2035",
+        "tweet": "Discussing cuisine topics like lunch recipe restaurant @rclark @cruzzachary @staffordhenry @rachel02 #lunch #recipe #restaurant",
+        "texte": "Discussing cuisine topics like lunch recipe restaurant @rclark @cruzzachary @staffordhenry @rachel02 #lunch #recipe #restaurant",
+        "hashtags": [
+            "#lunch",
+            "#recipe",
+            "#restaurant"
+        ],
+        "mentions": [
+            "@rclark",
+            "@cruzzachary",
+            "@staffordhenry",
+            "@rachel02"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1036",
+        "auteur": "2036",
+        "tweet": "Discussing conomie topics like stock finance money market @bmartinez @carlastevenson @jonathanking #stock #finance #money #market",
+        "texte": "Discussing conomie topics like stock finance money market @bmartinez @carlastevenson @jonathanking #stock #finance #money #market",
+        "hashtags": [
+            "#stock",
+            "#finance",
+            "#money",
+            "#market"
+        ],
+        "mentions": [
+            "@bmartinez",
+            "@carlastevenson",
+            "@jonathanking"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1037",
+        "auteur": "2037",
+        "tweet": "Discussing technologie topics like autonomous artificial 5g future @sarah06 @amymorris #autonomous #artificial #5g #future",
+        "texte": "Discussing technologie topics like autonomous artificial 5g future @sarah06 @amymorris #autonomous #artificial #5g #future",
+        "hashtags": [
+            "#autonomous",
+            "#artificial",
+            "#5g",
+            "#future"
+        ],
+        "mentions": [
+            "@sarah06",
+            "@amymorris"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1038",
+        "auteur": "2038",
+        "tweet": "Discussing voyages topics like holiday vacation adventure trip @michaelconley @mooregeorge @rrice @hdunn @rclark #holiday #vacation #adventure #trip",
+        "texte": "Discussing voyages topics like holiday vacation adventure trip @michaelconley @mooregeorge @rrice @hdunn @rclark #holiday #vacation #adventure #trip",
+        "hashtags": [
+            "#holiday",
+            "#vacation",
+            "#adventure",
+            "#trip"
+        ],
+        "mentions": [
+            "@michaelconley",
+            "@mooregeorge",
+            "@rrice",
+            "@hdunn",
+            "@rclark"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1039",
+        "auteur": "2039",
+        "tweet": "Discussing technologie topics like robot vehicle future autonomous @matthewbraun @guzmanamber @reynoldsbenjamin #robot #vehicle #future #autonomous",
+        "texte": "Discussing technologie topics like robot vehicle future autonomous @matthewbraun @guzmanamber @reynoldsbenjamin #robot #vehicle #future #autonomous",
+        "hashtags": [
+            "#robot",
+            "#vehicle",
+            "#future",
+            "#autonomous"
+        ],
+        "mentions": [
+            "@matthewbraun",
+            "@guzmanamber",
+            "@reynoldsbenjamin"
         ],
         "sentiment": "positif"
     },
     {
-        "id": "1421551384512585729",
-        "auteur": "16267684",
-        "tweet": "Im at Gardens of Versailles in Versailles ledeFrance httpstcofG7Q40cjWk",
-        "texte": "Im at Gardens of Versailles in Versailles ledeFrance httpstcofG7Q40cjWk",
-        "hashtags": [],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421550148061212673",
-        "auteur": "60117154",
-        "tweet": "Jungle Cruise httpstcoJyM8WQjz4p @ UGC Cyrano in Versailles ledeFrance httpstcots0FrwWU8W",
-        "texte": "Jungle Cruise httpstcoJyM8WQjz4p @ UGC Cyrano in Versailles ledeFrance httpstcots0FrwWU8W",
-        "hashtags": [],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421547651171078146",
-        "auteur": "3169236915",
-        "tweet": "@Pauluskupa ",
-        "texte": "@Pauluskupa ",
-        "hashtags": [],
+        "id": "1040",
+        "auteur": "2040",
+        "tweet": "Discussing sports topics like olympics football gold @cruzzachary @darlene03 @oliviarichard @jwood #olympics #football #gold",
+        "texte": "Discussing sports topics like olympics football gold @cruzzachary @darlene03 @oliviarichard @jwood #olympics #football #gold",
+        "hashtags": [
+            "#olympics",
+            "#football",
+            "#gold"
+        ],
         "mentions": [
-            "@Pauluskupa"
+            "@cruzzachary",
+            "@darlene03",
+            "@oliviarichard",
+            "@jwood"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421499497620836356",
-        "auteur": "372993152",
-        "tweet": "@anniemacmanus legend",
-        "texte": "@anniemacmanus legend",
-        "hashtags": [],
+        "id": "1041",
+        "auteur": "2041",
+        "tweet": "Discussing technologie topics like programming algorithm tesla robot autonomous 5g @rclark @courtney67 @mariamiller #programming #algorithm #tesla #robot #autonomous #5g",
+        "texte": "Discussing technologie topics like programming algorithm tesla robot autonomous 5g @rclark @courtney67 @mariamiller #programming #algorithm #tesla #robot #autonomous #5g",
+        "hashtags": [
+            "#programming",
+            "#algorithm",
+            "#tesla",
+            "#robot",
+            "#autonomous",
+            "#5g"
+        ],
         "mentions": [
-            "@anniemacmanus"
+            "@rclark",
+            "@courtney67",
+            "@mariamiller"
+        ],
+        "sentiment": "positif"
+    },
+    {
+        "id": "1042",
+        "auteur": "2042",
+        "tweet": "Discussing cuisine topics like recipe baking meal dish @kelli06 @carlastevenson @cruzzachary @kelli06 #recipe #baking #meal #dish",
+        "texte": "Discussing cuisine topics like recipe baking meal dish @kelli06 @carlastevenson @cruzzachary @kelli06 #recipe #baking #meal #dish",
+        "hashtags": [
+            "#recipe",
+            "#baking",
+            "#meal",
+            "#dish"
+        ],
+        "mentions": [
+            "@kelli06",
+            "@carlastevenson",
+            "@cruzzachary",
+            "@kelli06"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421499329974579200",
-        "auteur": "372993152",
-        "tweet": "@yebbasmith @anniemacmanus ",
-        "texte": "@yebbasmith @anniemacmanus ",
-        "hashtags": [],
+        "id": "1043",
+        "auteur": "2043",
+        "tweet": "Discussing technologie topics like smartphone algorithm autonomous vehicle data future @longamanda @brittany53 @longamanda @tpeterson #smartphone #algorithm #autonomous #vehicle #data #future",
+        "texte": "Discussing technologie topics like smartphone algorithm autonomous vehicle data future @longamanda @brittany53 @longamanda @tpeterson #smartphone #algorithm #autonomous #vehicle #data #future",
+        "hashtags": [
+            "#smartphone",
+            "#algorithm",
+            "#autonomous",
+            "#vehicle",
+            "#data",
+            "#future"
+        ],
         "mentions": [
-            "@yebbasmith",
-            "@anniemacmanus"
+            "@longamanda",
+            "@brittany53",
+            "@longamanda",
+            "@tpeterson"
+        ],
+        "sentiment": "positif"
+    },
+    {
+        "id": "1044",
+        "auteur": "2044",
+        "tweet": "Discussing technologie topics like future tesla programming machine intelligence @darlene03 @tpeterson #future #tesla #programming #machine #intelligence",
+        "texte": "Discussing technologie topics like future tesla programming machine intelligence @darlene03 @tpeterson #future #tesla #programming #machine #intelligence",
+        "hashtags": [
+            "#future",
+            "#tesla",
+            "#programming",
+            "#machine",
+            "#intelligence"
+        ],
+        "mentions": [
+            "@darlene03",
+            "@tpeterson"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421487092023050244",
-        "auteur": "105241852",
-        "tweet": "Vient de publier une photo  Quelquepart  httpstcofWNqGJosAA",
-        "texte": "Vient de publier une photo  Quelquepart  httpstcofWNqGJosAA",
-        "hashtags": [],
-        "mentions": [],
-        "sentiment": "neutre"
-    },
-    {
-        "id": "1421472953980571651",
-        "auteur": "2357913366",
-        "tweet": "@AzmiAnees3 He was my lovers accomplice",
-        "texte": "@AzmiAnees3 He was my lovers accomplice",
-        "hashtags": [],
+        "id": "1045",
+        "auteur": "2045",
+        "tweet": "Discussing sant topics like health disease life @bobbysmith @yharrington #health #disease #life",
+        "texte": "Discussing sant topics like health disease life @bobbysmith @yharrington #health #disease #life",
+        "hashtags": [
+            "#health",
+            "#disease",
+            "#life"
+        ],
         "mentions": [
-            "@AzmiAnees3"
+            "@bobbysmith",
+            "@yharrington"
         ],
         "sentiment": "neutre"
     },
     {
-        "id": "1421429486432686081",
-        "auteur": "717025418",
-        "tweet": "Le gardien lui parle non  httpstcoe3WewDSQOJ",
-        "texte": "Le gardien lui parle non  httpstcoe3WewDSQOJ",
-        "hashtags": [],
-        "mentions": [],
+        "id": "1046",
+        "auteur": "2046",
+        "tweet": "Discussing climat topics like weather renewable recycle global green @vvalenzuela @hdunn @michaelconley #weather #renewable #recycle #global #green",
+        "texte": "Discussing climat topics like weather renewable recycle global green @vvalenzuela @hdunn @michaelconley #weather #renewable #recycle #global #green",
+        "hashtags": [
+            "#weather",
+            "#renewable",
+            "#recycle",
+            "#global",
+            "#green"
+        ],
+        "mentions": [
+            "@vvalenzuela",
+            "@hdunn",
+            "@michaelconley"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1047",
+        "auteur": "2047",
+        "tweet": "Discussing climat topics like environment biodiversity planet climate weather @darlene03 @jwood #environment #biodiversity #planet #climate #weather",
+        "texte": "Discussing climat topics like environment biodiversity planet climate weather @darlene03 @jwood #environment #biodiversity #planet #climate #weather",
+        "hashtags": [
+            "#environment",
+            "#biodiversity",
+            "#planet",
+            "#climate",
+            "#weather"
+        ],
+        "mentions": [
+            "@darlene03",
+            "@jwood"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1048",
+        "auteur": "2048",
+        "tweet": "Discussing sant topics like doctor mental wellness awareness diet health @darrelledwards @bobbysmith @kevinramirez #doctor #mental #wellness #awareness #diet #health",
+        "texte": "Discussing sant topics like doctor mental wellness awareness diet health @darrelledwards @bobbysmith @kevinramirez #doctor #mental #wellness #awareness #diet #health",
+        "hashtags": [
+            "#doctor",
+            "#mental",
+            "#wellness",
+            "#awareness",
+            "#diet",
+            "#health"
+        ],
+        "mentions": [
+            "@darrelledwards",
+            "@bobbysmith",
+            "@kevinramirez"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1049",
+        "auteur": "2049",
+        "tweet": "Discussing climat topics like environment global warming pollution @rclark @courtney67 #environment #global #warming #pollution",
+        "texte": "Discussing climat topics like environment global warming pollution @rclark @courtney67 #environment #global #warming #pollution",
+        "hashtags": [
+            "#environment",
+            "#global",
+            "#warming",
+            "#pollution"
+        ],
+        "mentions": [
+            "@rclark",
+            "@courtney67"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1050",
+        "auteur": "2050",
+        "tweet": "Discussing divertissement topics like adele boxoffice tour theater marvel @kelli06 @jonathanking @amymorris @reynoldsbenjamin @bmartinez #adele #boxoffice #tour #theater #marvel",
+        "texte": "Discussing divertissement topics like adele boxoffice tour theater marvel @kelli06 @jonathanking @amymorris @reynoldsbenjamin @bmartinez #adele #boxoffice #tour #theater #marvel",
+        "hashtags": [
+            "#adele",
+            "#boxoffice",
+            "#tour",
+            "#theater",
+            "#marvel"
+        ],
+        "mentions": [
+            "@kelli06",
+            "@jonathanking",
+            "@amymorris",
+            "@reynoldsbenjamin",
+            "@bmartinez"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1051",
+        "auteur": "2051",
+        "tweet": "Discussing technologie topics like ai smartphone 5g tesla intelligence autonomous @staffordhenry @btyler @mmurphy #ai #smartphone #5g #tesla #intelligence #autonomous",
+        "texte": "Discussing technologie topics like ai smartphone 5g tesla intelligence autonomous @staffordhenry @btyler @mmurphy #ai #smartphone #5g #tesla #intelligence #autonomous",
+        "hashtags": [
+            "#ai",
+            "#smartphone",
+            "#5g",
+            "#tesla",
+            "#intelligence",
+            "#autonomous"
+        ],
+        "mentions": [
+            "@staffordhenry",
+            "@btyler",
+            "@mmurphy"
+        ],
+        "sentiment": "positif"
+    },
+    {
+        "id": "1052",
+        "auteur": "2052",
+        "tweet": "Discussing conomie topics like tax growth investment finance business entrepreneur @patrick76 @darlene03 #tax #growth #investment #finance #business #entrepreneur",
+        "texte": "Discussing conomie topics like tax growth investment finance business entrepreneur @patrick76 @darlene03 #tax #growth #investment #finance #business #entrepreneur",
+        "hashtags": [
+            "#tax",
+            "#growth",
+            "#investment",
+            "#finance",
+            "#business",
+            "#entrepreneur"
+        ],
+        "mentions": [
+            "@patrick76",
+            "@darlene03"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1053",
+        "auteur": "2053",
+        "tweet": "Discussing voyages topics like adventure vacation destination explore @gregwoods @carlastevenson @thuynh @darlene03 #adventure #vacation #destination #explore",
+        "texte": "Discussing voyages topics like adventure vacation destination explore @gregwoods @carlastevenson @thuynh @darlene03 #adventure #vacation #destination #explore",
+        "hashtags": [
+            "#adventure",
+            "#vacation",
+            "#destination",
+            "#explore"
+        ],
+        "mentions": [
+            "@gregwoods",
+            "@carlastevenson",
+            "@thuynh",
+            "@darlene03"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1054",
+        "auteur": "2054",
+        "tweet": "Discussing politique topics like minister democracy policy @amymorris @sarahmartinez #minister #democracy #policy",
+        "texte": "Discussing politique topics like minister democracy policy @amymorris @sarahmartinez #minister #democracy #policy",
+        "hashtags": [
+            "#minister",
+            "#democracy",
+            "#policy"
+        ],
+        "mentions": [
+            "@amymorris",
+            "@sarahmartinez"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1055",
+        "auteur": "2055",
+        "tweet": "Discussing divertissement topics like album festival concert series adele @kevinramirez @jwood @oliviarichard @qhawkins @williamsbianca #album #festival #concert #series #adele",
+        "texte": "Discussing divertissement topics like album festival concert series adele @kevinramirez @jwood @oliviarichard @qhawkins @williamsbianca #album #festival #concert #series #adele",
+        "hashtags": [
+            "#album",
+            "#festival",
+            "#concert",
+            "#series",
+            "#adele"
+        ],
+        "mentions": [
+            "@kevinramirez",
+            "@jwood",
+            "@oliviarichard",
+            "@qhawkins",
+            "@williamsbianca"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1056",
+        "auteur": "2056",
+        "tweet": "Discussing politique topics like debate parliament vote president @ugay @matthewbraun @rachel02 @staffordhenry #debate #parliament #vote #president",
+        "texte": "Discussing politique topics like debate parliament vote president @ugay @matthewbraun @rachel02 @staffordhenry #debate #parliament #vote #president",
+        "hashtags": [
+            "#debate",
+            "#parliament",
+            "#vote",
+            "#president"
+        ],
+        "mentions": [
+            "@ugay",
+            "@matthewbraun",
+            "@rachel02",
+            "@staffordhenry"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1057",
+        "auteur": "2057",
+        "tweet": "Discussing sant topics like disease hospital health medicine @carlastevenson @amoore #disease #hospital #health #medicine",
+        "texte": "Discussing sant topics like disease hospital health medicine @carlastevenson @amoore #disease #hospital #health #medicine",
+        "hashtags": [
+            "#disease",
+            "#hospital",
+            "#health",
+            "#medicine"
+        ],
+        "mentions": [
+            "@carlastevenson",
+            "@amoore"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1058",
+        "auteur": "2058",
+        "tweet": "Discussing technologie topics like artificial data ai smartphone programming @amoore @tpeterson @jacobhoover @vvalenzuela @amymorris #artificial #data #ai #smartphone #programming",
+        "texte": "Discussing technologie topics like artificial data ai smartphone programming @amoore @tpeterson @jacobhoover @vvalenzuela @amymorris #artificial #data #ai #smartphone #programming",
+        "hashtags": [
+            "#artificial",
+            "#data",
+            "#ai",
+            "#smartphone",
+            "#programming"
+        ],
+        "mentions": [
+            "@amoore",
+            "@tpeterson",
+            "@jacobhoover",
+            "@vvalenzuela",
+            "@amymorris"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1059",
+        "auteur": "2059",
+        "tweet": "Discussing sports topics like serena league basketball match @darrelledwards @patrick76 @gregwoods @michaelconley #serena #league #basketball #match",
+        "texte": "Discussing sports topics like serena league basketball match @darrelledwards @patrick76 @gregwoods @michaelconley #serena #league #basketball #match",
+        "hashtags": [
+            "#serena",
+            "#league",
+            "#basketball",
+            "#match"
+        ],
+        "mentions": [
+            "@darrelledwards",
+            "@patrick76",
+            "@gregwoods",
+            "@michaelconley"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1060",
+        "auteur": "2060",
+        "tweet": "Discussing technologie topics like autonomous algorithm machine intelligence @watsonbianca @thuynh @rclark @oliviarichard @gregwoods #autonomous #algorithm #machine #intelligence",
+        "texte": "Discussing technologie topics like autonomous algorithm machine intelligence @watsonbianca @thuynh @rclark @oliviarichard @gregwoods #autonomous #algorithm #machine #intelligence",
+        "hashtags": [
+            "#autonomous",
+            "#algorithm",
+            "#machine",
+            "#intelligence"
+        ],
+        "mentions": [
+            "@watsonbianca",
+            "@thuynh",
+            "@rclark",
+            "@oliviarichard",
+            "@gregwoods"
+        ],
+        "sentiment": "positif"
+    },
+    {
+        "id": "1061",
+        "auteur": "2061",
+        "tweet": "Discussing divertissement topics like festival netflix theater swift boxoffice @jonathanking @mariamiller @guzmanamber @terrencewolf @kathleen40 #festival #netflix #theater #swift #boxoffice",
+        "texte": "Discussing divertissement topics like festival netflix theater swift boxoffice @jonathanking @mariamiller @guzmanamber @terrencewolf @kathleen40 #festival #netflix #theater #swift #boxoffice",
+        "hashtags": [
+            "#festival",
+            "#netflix",
+            "#theater",
+            "#swift",
+            "#boxoffice"
+        ],
+        "mentions": [
+            "@jonathanking",
+            "@mariamiller",
+            "@guzmanamber",
+            "@terrencewolf",
+            "@kathleen40"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1062",
+        "auteur": "2062",
+        "tweet": "Discussing cuisine topics like ingredients recipe lunch @courtney67 @rrice @darlene03 @kelli06 @longamanda #ingredients #recipe #lunch",
+        "texte": "Discussing cuisine topics like ingredients recipe lunch @courtney67 @rrice @darlene03 @kelli06 @longamanda #ingredients #recipe #lunch",
+        "hashtags": [
+            "#ingredients",
+            "#recipe",
+            "#lunch"
+        ],
+        "mentions": [
+            "@courtney67",
+            "@rrice",
+            "@darlene03",
+            "@kelli06",
+            "@longamanda"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1063",
+        "auteur": "2063",
+        "tweet": "Discussing climat topics like environment green sustainability warming carbon @oliviarichard @btyler @kevinramirez @qhawkins #environment #green #sustainability #warming #carbon",
+        "texte": "Discussing climat topics like environment green sustainability warming carbon @oliviarichard @btyler @kevinramirez @qhawkins #environment #green #sustainability #warming #carbon",
+        "hashtags": [
+            "#environment",
+            "#green",
+            "#sustainability",
+            "#warming",
+            "#carbon"
+        ],
+        "mentions": [
+            "@oliviarichard",
+            "@btyler",
+            "@kevinramirez",
+            "@qhawkins"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1064",
+        "auteur": "2064",
+        "tweet": "Discussing conomie topics like stock entrepreneur market money tax @sarahmartinez @ybentley #stock #entrepreneur #market #money #tax",
+        "texte": "Discussing conomie topics like stock entrepreneur market money tax @sarahmartinez @ybentley #stock #entrepreneur #market #money #tax",
+        "hashtags": [
+            "#stock",
+            "#entrepreneur",
+            "#market",
+            "#money",
+            "#tax"
+        ],
+        "mentions": [
+            "@sarahmartinez",
+            "@ybentley"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1065",
+        "auteur": "2065",
+        "tweet": "Discussing ducation topics like degree course exam scholarship learning @mmurphy @oliviarichard @vvalenzuela @mariamiller #degree #course #exam #scholarship #learning",
+        "texte": "Discussing ducation topics like degree course exam scholarship learning @mmurphy @oliviarichard @vvalenzuela @mariamiller #degree #course #exam #scholarship #learning",
+        "hashtags": [
+            "#degree",
+            "#course",
+            "#exam",
+            "#scholarship",
+            "#learning"
+        ],
+        "mentions": [
+            "@mmurphy",
+            "@oliviarichard",
+            "@vvalenzuela",
+            "@mariamiller"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1066",
+        "auteur": "2066",
+        "tweet": "Discussing ducation topics like school exam student @amymorris @staffordhenry @rachel02 @rachel02 #school #exam #student",
+        "texte": "Discussing ducation topics like school exam student @amymorris @staffordhenry @rachel02 @rachel02 #school #exam #student",
+        "hashtags": [
+            "#school",
+            "#exam",
+            "#student"
+        ],
+        "mentions": [
+            "@amymorris",
+            "@staffordhenry",
+            "@rachel02",
+            "@rachel02"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1067",
+        "auteur": "2067",
+        "tweet": "Discussing technologie topics like tesla machine data @tpeterson @mmurphy #tesla #machine #data",
+        "texte": "Discussing technologie topics like tesla machine data @tpeterson @mmurphy #tesla #machine #data",
+        "hashtags": [
+            "#tesla",
+            "#machine",
+            "#data"
+        ],
+        "mentions": [
+            "@tpeterson",
+            "@mmurphy"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1068",
+        "auteur": "2068",
+        "tweet": "Discussing technologie topics like robot 5g intelligence ai autonomous smartphone @hdunn @thuynh #robot #5g #intelligence #ai #autonomous #smartphone",
+        "texte": "Discussing technologie topics like robot 5g intelligence ai autonomous smartphone @hdunn @thuynh #robot #5g #intelligence #ai #autonomous #smartphone",
+        "hashtags": [
+            "#robot",
+            "#5g",
+            "#intelligence",
+            "#ai",
+            "#autonomous",
+            "#smartphone"
+        ],
+        "mentions": [
+            "@hdunn",
+            "@thuynh"
+        ],
+        "sentiment": "positif"
+    },
+    {
+        "id": "1069",
+        "auteur": "2069",
+        "tweet": "Discussing technologie topics like future machine tesla @jwood @kelli06 @darlene03 @ugay #future #machine #tesla",
+        "texte": "Discussing technologie topics like future machine tesla @jwood @kelli06 @darlene03 @ugay #future #machine #tesla",
+        "hashtags": [
+            "#future",
+            "#machine",
+            "#tesla"
+        ],
+        "mentions": [
+            "@jwood",
+            "@kelli06",
+            "@darlene03",
+            "@ugay"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1070",
+        "auteur": "2070",
+        "tweet": "Discussing climat topics like pollution global planet recycle @rclark @tpeterson #pollution #global #planet #recycle",
+        "texte": "Discussing climat topics like pollution global planet recycle @rclark @tpeterson #pollution #global #planet #recycle",
+        "hashtags": [
+            "#pollution",
+            "#global",
+            "#planet",
+            "#recycle"
+        ],
+        "mentions": [
+            "@rclark",
+            "@tpeterson"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1071",
+        "auteur": "2071",
+        "tweet": "Discussing cuisine topics like recipe kitchen restaurant food @douglasgonzalez @sarah06 @ybentley @bobbysmith #recipe #kitchen #restaurant #food",
+        "texte": "Discussing cuisine topics like recipe kitchen restaurant food @douglasgonzalez @sarah06 @ybentley @bobbysmith #recipe #kitchen #restaurant #food",
+        "hashtags": [
+            "#recipe",
+            "#kitchen",
+            "#restaurant",
+            "#food"
+        ],
+        "mentions": [
+            "@douglasgonzalez",
+            "@sarah06",
+            "@ybentley",
+            "@bobbysmith"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1072",
+        "auteur": "2072",
+        "tweet": "Discussing ducation topics like learning homework university course @bobbysmith @longamanda #learning #homework #university #course",
+        "texte": "Discussing ducation topics like learning homework university course @bobbysmith @longamanda #learning #homework #university #course",
+        "hashtags": [
+            "#learning",
+            "#homework",
+            "#university",
+            "#course"
+        ],
+        "mentions": [
+            "@bobbysmith",
+            "@longamanda"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1073",
+        "auteur": "2073",
+        "tweet": "Discussing voyages topics like flight trip vacation tourism @patrick76 @thuynh #flight #trip #vacation #tourism",
+        "texte": "Discussing voyages topics like flight trip vacation tourism @patrick76 @thuynh #flight #trip #vacation #tourism",
+        "hashtags": [
+            "#flight",
+            "#trip",
+            "#vacation",
+            "#tourism"
+        ],
+        "mentions": [
+            "@patrick76",
+            "@thuynh"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1074",
+        "auteur": "2074",
+        "tweet": "Discussing technologie topics like 5g programming data intelligence robot ai @guzmanamber @jonathanking @sarahmartinez @sarah06 @lisa45 #5g #programming #data #intelligence #robot #ai",
+        "texte": "Discussing technologie topics like 5g programming data intelligence robot ai @guzmanamber @jonathanking @sarahmartinez @sarah06 @lisa45 #5g #programming #data #intelligence #robot #ai",
+        "hashtags": [
+            "#5g",
+            "#programming",
+            "#data",
+            "#intelligence",
+            "#robot",
+            "#ai"
+        ],
+        "mentions": [
+            "@guzmanamber",
+            "@jonathanking",
+            "@sarahmartinez",
+            "@sarah06",
+            "@lisa45"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1075",
+        "auteur": "2075",
+        "tweet": "Discussing divertissement topics like music marvel festival concert theater movie @gregwoods @mmurphy @darrelledwards @matthewbraun @kathleen40 #music #marvel #festival #concert #theater #movie",
+        "texte": "Discussing divertissement topics like music marvel festival concert theater movie @gregwoods @mmurphy @darrelledwards @matthewbraun @kathleen40 #music #marvel #festival #concert #theater #movie",
+        "hashtags": [
+            "#music",
+            "#marvel",
+            "#festival",
+            "#concert",
+            "#theater",
+            "#movie"
+        ],
+        "mentions": [
+            "@gregwoods",
+            "@mmurphy",
+            "@darrelledwards",
+            "@matthewbraun",
+            "@kathleen40"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1076",
+        "auteur": "2076",
+        "tweet": "Discussing voyages topics like cruise destination tourism travel @ugay @hdunn @brittany53 @mmurphy #cruise #destination #tourism #travel",
+        "texte": "Discussing voyages topics like cruise destination tourism travel @ugay @hdunn @brittany53 @mmurphy #cruise #destination #tourism #travel",
+        "hashtags": [
+            "#cruise",
+            "#destination",
+            "#tourism",
+            "#travel"
+        ],
+        "mentions": [
+            "@ugay",
+            "@hdunn",
+            "@brittany53",
+            "@mmurphy"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1077",
+        "auteur": "2077",
+        "tweet": "Discussing divertissement topics like netflix series festival boxoffice @amoore @oliviarichard @brittany53 @rachel02 #netflix #series #festival #boxoffice",
+        "texte": "Discussing divertissement topics like netflix series festival boxoffice @amoore @oliviarichard @brittany53 @rachel02 #netflix #series #festival #boxoffice",
+        "hashtags": [
+            "#netflix",
+            "#series",
+            "#festival",
+            "#boxoffice"
+        ],
+        "mentions": [
+            "@amoore",
+            "@oliviarichard",
+            "@brittany53",
+            "@rachel02"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1078",
+        "auteur": "2078",
+        "tweet": "Discussing voyages topics like passport holiday cruise @sarahmartinez @yharrington @carlastevenson @watsonbianca #passport #holiday #cruise",
+        "texte": "Discussing voyages topics like passport holiday cruise @sarahmartinez @yharrington @carlastevenson @watsonbianca #passport #holiday #cruise",
+        "hashtags": [
+            "#passport",
+            "#holiday",
+            "#cruise"
+        ],
+        "mentions": [
+            "@sarahmartinez",
+            "@yharrington",
+            "@carlastevenson",
+            "@watsonbianca"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1079",
+        "auteur": "2079",
+        "tweet": "Discussing cuisine topics like cooking ingredients dish menu @kathleen40 @cruzzachary @jwood @jacobhoover #cooking #ingredients #dish #menu",
+        "texte": "Discussing cuisine topics like cooking ingredients dish menu @kathleen40 @cruzzachary @jwood @jacobhoover #cooking #ingredients #dish #menu",
+        "hashtags": [
+            "#cooking",
+            "#ingredients",
+            "#dish",
+            "#menu"
+        ],
+        "mentions": [
+            "@kathleen40",
+            "@cruzzachary",
+            "@jwood",
+            "@jacobhoover"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1080",
+        "auteur": "2080",
+        "tweet": "Discussing sant topics like diet fasting disease medicine life hospital @amoore @williamsbianca @courtney67 @matthewbraun @ybentley #diet #fasting #disease #medicine #life #hospital",
+        "texte": "Discussing sant topics like diet fasting disease medicine life hospital @amoore @williamsbianca @courtney67 @matthewbraun @ybentley #diet #fasting #disease #medicine #life #hospital",
+        "hashtags": [
+            "#diet",
+            "#fasting",
+            "#disease",
+            "#medicine",
+            "#life",
+            "#hospital"
+        ],
+        "mentions": [
+            "@amoore",
+            "@williamsbianca",
+            "@courtney67",
+            "@matthewbraun",
+            "@ybentley"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1081",
+        "auteur": "2081",
+        "tweet": "Discussing divertissement topics like concert music tour album swift @jonathanking @darrelledwards @scraig @kelli06 #concert #music #tour #album #swift",
+        "texte": "Discussing divertissement topics like concert music tour album swift @jonathanking @darrelledwards @scraig @kelli06 #concert #music #tour #album #swift",
+        "hashtags": [
+            "#concert",
+            "#music",
+            "#tour",
+            "#album",
+            "#swift"
+        ],
+        "mentions": [
+            "@jonathanking",
+            "@darrelledwards",
+            "@scraig",
+            "@kelli06"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1082",
+        "auteur": "2082",
+        "tweet": "Discussing climat topics like carbon planet renewable @darlene03 @cruzzachary #carbon #planet #renewable",
+        "texte": "Discussing climat topics like carbon planet renewable @darlene03 @cruzzachary #carbon #planet #renewable",
+        "hashtags": [
+            "#carbon",
+            "#planet",
+            "#renewable"
+        ],
+        "mentions": [
+            "@darlene03",
+            "@cruzzachary"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1083",
+        "auteur": "2083",
+        "tweet": "Discussing cuisine topics like dish ingredients restaurant kitchen flavor dinner @scraig @amymorris @guzmanamber @mariamiller #dish #ingredients #restaurant #kitchen #flavor #dinner",
+        "texte": "Discussing cuisine topics like dish ingredients restaurant kitchen flavor dinner @scraig @amymorris @guzmanamber @mariamiller #dish #ingredients #restaurant #kitchen #flavor #dinner",
+        "hashtags": [
+            "#dish",
+            "#ingredients",
+            "#restaurant",
+            "#kitchen",
+            "#flavor",
+            "#dinner"
+        ],
+        "mentions": [
+            "@scraig",
+            "@amymorris",
+            "@guzmanamber",
+            "@mariamiller"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1084",
+        "auteur": "2084",
+        "tweet": "Discussing sant topics like wellness disease diet doctor @douglasgonzalez @rachel02 @jonathanking @amoore @michaelconley #wellness #disease #diet #doctor",
+        "texte": "Discussing sant topics like wellness disease diet doctor @douglasgonzalez @rachel02 @jonathanking @amoore @michaelconley #wellness #disease #diet #doctor",
+        "hashtags": [
+            "#wellness",
+            "#disease",
+            "#diet",
+            "#doctor"
+        ],
+        "mentions": [
+            "@douglasgonzalez",
+            "@rachel02",
+            "@jonathanking",
+            "@amoore",
+            "@michaelconley"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1085",
+        "auteur": "2085",
+        "tweet": "Discussing voyages topics like passport holiday cruise travel tourism @tpeterson @jonathanking #passport #holiday #cruise #travel #tourism",
+        "texte": "Discussing voyages topics like passport holiday cruise travel tourism @tpeterson @jonathanking #passport #holiday #cruise #travel #tourism",
+        "hashtags": [
+            "#passport",
+            "#holiday",
+            "#cruise",
+            "#travel",
+            "#tourism"
+        ],
+        "mentions": [
+            "@tpeterson",
+            "@jonathanking"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1086",
+        "auteur": "2086",
+        "tweet": "Discussing divertissement topics like music swift adele boxoffice theater movie @sarahmartinez @mooregeorge @mooregeorge #music #swift #adele #boxoffice #theater #movie",
+        "texte": "Discussing divertissement topics like music swift adele boxoffice theater movie @sarahmartinez @mooregeorge @mooregeorge #music #swift #adele #boxoffice #theater #movie",
+        "hashtags": [
+            "#music",
+            "#swift",
+            "#adele",
+            "#boxoffice",
+            "#theater",
+            "#movie"
+        ],
+        "mentions": [
+            "@sarahmartinez",
+            "@mooregeorge",
+            "@mooregeorge"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1087",
+        "auteur": "2087",
+        "tweet": "Discussing ducation topics like scholarship knowledge learning exam university degree @ybentley @scraig @reynoldsbenjamin #scholarship #knowledge #learning #exam #university #degree",
+        "texte": "Discussing ducation topics like scholarship knowledge learning exam university degree @ybentley @scraig @reynoldsbenjamin #scholarship #knowledge #learning #exam #university #degree",
+        "hashtags": [
+            "#scholarship",
+            "#knowledge",
+            "#learning",
+            "#exam",
+            "#university",
+            "#degree"
+        ],
+        "mentions": [
+            "@ybentley",
+            "@scraig",
+            "@reynoldsbenjamin"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1088",
+        "auteur": "2088",
+        "tweet": "Discussing sant topics like hospital medicine mental exercise wellness doctor @sarah06 @douglasgonzalez @michaelconley @rclark #hospital #medicine #mental #exercise #wellness #doctor",
+        "texte": "Discussing sant topics like hospital medicine mental exercise wellness doctor @sarah06 @douglasgonzalez @michaelconley @rclark #hospital #medicine #mental #exercise #wellness #doctor",
+        "hashtags": [
+            "#hospital",
+            "#medicine",
+            "#mental",
+            "#exercise",
+            "#wellness",
+            "#doctor"
+        ],
+        "mentions": [
+            "@sarah06",
+            "@douglasgonzalez",
+            "@michaelconley",
+            "@rclark"
+        ],
+        "sentiment": "négatif"
+    },
+    {
+        "id": "1089",
+        "auteur": "2089",
+        "tweet": "Discussing climat topics like planet warming renewable @rachel02 @matthewbraun @darlene03 @darrelledwards @williamsbianca #planet #warming #renewable",
+        "texte": "Discussing climat topics like planet warming renewable @rachel02 @matthewbraun @darlene03 @darrelledwards @williamsbianca #planet #warming #renewable",
+        "hashtags": [
+            "#planet",
+            "#warming",
+            "#renewable"
+        ],
+        "mentions": [
+            "@rachel02",
+            "@matthewbraun",
+            "@darlene03",
+            "@darrelledwards",
+            "@williamsbianca"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1090",
+        "auteur": "2090",
+        "tweet": "Discussing technologie topics like algorithm ai future 5g vehicle intelligence @lisa45 @amymorris #algorithm #ai #future #5g #vehicle #intelligence",
+        "texte": "Discussing technologie topics like algorithm ai future 5g vehicle intelligence @lisa45 @amymorris #algorithm #ai #future #5g #vehicle #intelligence",
+        "hashtags": [
+            "#algorithm",
+            "#ai",
+            "#future",
+            "#5g",
+            "#vehicle",
+            "#intelligence"
+        ],
+        "mentions": [
+            "@lisa45",
+            "@amymorris"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1091",
+        "auteur": "2091",
+        "tweet": "Discussing politique topics like senate minister campaign policy vote election @brittany53 @watsonbianca @bobbysmith #senate #minister #campaign #policy #vote #election",
+        "texte": "Discussing politique topics like senate minister campaign policy vote election @brittany53 @watsonbianca @bobbysmith #senate #minister #campaign #policy #vote #election",
+        "hashtags": [
+            "#senate",
+            "#minister",
+            "#campaign",
+            "#policy",
+            "#vote",
+            "#election"
+        ],
+        "mentions": [
+            "@brittany53",
+            "@watsonbianca",
+            "@bobbysmith"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1092",
+        "auteur": "2092",
+        "tweet": "Discussing technologie topics like 5g robot tesla intelligence ai vehicle @darlene03 @kelli06 @sarah06 #5g #robot #tesla #intelligence #ai #vehicle",
+        "texte": "Discussing technologie topics like 5g robot tesla intelligence ai vehicle @darlene03 @kelli06 @sarah06 #5g #robot #tesla #intelligence #ai #vehicle",
+        "hashtags": [
+            "#5g",
+            "#robot",
+            "#tesla",
+            "#intelligence",
+            "#ai",
+            "#vehicle"
+        ],
+        "mentions": [
+            "@darlene03",
+            "@kelli06",
+            "@sarah06"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1093",
+        "auteur": "2093",
+        "tweet": "Discussing ducation topics like scholarship learning school @tpeterson @jonathanking #scholarship #learning #school",
+        "texte": "Discussing ducation topics like scholarship learning school @tpeterson @jonathanking #scholarship #learning #school",
+        "hashtags": [
+            "#scholarship",
+            "#learning",
+            "#school"
+        ],
+        "mentions": [
+            "@tpeterson",
+            "@jonathanking"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1094",
+        "auteur": "2094",
+        "tweet": "Discussing divertissement topics like oscars movie boxoffice theater album music @gregwoods @rclark @douglasgonzalez #oscars #movie #boxoffice #theater #album #music",
+        "texte": "Discussing divertissement topics like oscars movie boxoffice theater album music @gregwoods @rclark @douglasgonzalez #oscars #movie #boxoffice #theater #album #music",
+        "hashtags": [
+            "#oscars",
+            "#movie",
+            "#boxoffice",
+            "#theater",
+            "#album",
+            "#music"
+        ],
+        "mentions": [
+            "@gregwoods",
+            "@rclark",
+            "@douglasgonzalez"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1095",
+        "auteur": "2095",
+        "tweet": "Discussing climat topics like environment recycle warming global sustainability @watsonbianca @kathleen40 @ybentley @yharrington @mooregeorge #environment #recycle #warming #global #sustainability",
+        "texte": "Discussing climat topics like environment recycle warming global sustainability @watsonbianca @kathleen40 @ybentley @yharrington @mooregeorge #environment #recycle #warming #global #sustainability",
+        "hashtags": [
+            "#environment",
+            "#recycle",
+            "#warming",
+            "#global",
+            "#sustainability"
+        ],
+        "mentions": [
+            "@watsonbianca",
+            "@kathleen40",
+            "@ybentley",
+            "@yharrington",
+            "@mooregeorge"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1096",
+        "auteur": "2096",
+        "tweet": "Discussing sant topics like doctor medicine fasting health @ybentley @rrice @tpeterson @rrice #doctor #medicine #fasting #health",
+        "texte": "Discussing sant topics like doctor medicine fasting health @ybentley @rrice @tpeterson @rrice #doctor #medicine #fasting #health",
+        "hashtags": [
+            "#doctor",
+            "#medicine",
+            "#fasting",
+            "#health"
+        ],
+        "mentions": [
+            "@ybentley",
+            "@rrice",
+            "@tpeterson",
+            "@rrice"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1097",
+        "auteur": "2097",
+        "tweet": "Discussing voyages topics like passport trip tourism beach @darlene03 @longamanda @terrencewolf #passport #trip #tourism #beach",
+        "texte": "Discussing voyages topics like passport trip tourism beach @darlene03 @longamanda @terrencewolf #passport #trip #tourism #beach",
+        "hashtags": [
+            "#passport",
+            "#trip",
+            "#tourism",
+            "#beach"
+        ],
+        "mentions": [
+            "@darlene03",
+            "@longamanda",
+            "@terrencewolf"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1098",
+        "auteur": "2098",
+        "tweet": "Discussing technologie topics like ai future intelligence robot vehicle @watsonbianca @thuynh #ai #future #intelligence #robot #vehicle",
+        "texte": "Discussing technologie topics like ai future intelligence robot vehicle @watsonbianca @thuynh #ai #future #intelligence #robot #vehicle",
+        "hashtags": [
+            "#ai",
+            "#future",
+            "#intelligence",
+            "#robot",
+            "#vehicle"
+        ],
+        "mentions": [
+            "@watsonbianca",
+            "@thuynh"
+        ],
+        "sentiment": "neutre"
+    },
+    {
+        "id": "1099",
+        "auteur": "2099",
+        "tweet": "Discussing politique topics like vote minister campaign senate election @patrick76 @oliviarichard @mooregeorge @williamsbianca #vote #minister #campaign #senate #election",
+        "texte": "Discussing politique topics like vote minister campaign senate election @patrick76 @oliviarichard @mooregeorge @williamsbianca #vote #minister #campaign #senate #election",
+        "hashtags": [
+            "#vote",
+            "#minister",
+            "#campaign",
+            "#senate",
+            "#election"
+        ],
+        "mentions": [
+            "@patrick76",
+            "@oliviarichard",
+            "@mooregeorge",
+            "@williamsbianca"
+        ],
         "sentiment": "neutre"
     }
 ]
